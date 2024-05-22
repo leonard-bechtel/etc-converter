@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-gyp": "^9.3.0",
+    "parser": "^0.1.4",
+    "pkg": "^5.8.1",
+    "prompt-sync": "^4.2.0",
+    "xml2js": "^0.4.23"
+  }
+}

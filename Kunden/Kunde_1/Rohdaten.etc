@@ -1,0 +1,1625 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PROFITEST_M version="" date="26.12.2022 17:10:19" language="German" country="" etcversion="01.50.00">
+  <TESTDEVICE manufacturer="GOSSEN METRAWATT" type="PROFITEST MXTRA" orderno="M520P" serialno="CF0539" firmware="01.16.00" hardware="B13" calibdate="2022-06-27" protocol="" adjustmentdate="2018-06-11" recalibdate="2023-06-27" xml="01.05.00"/>
+  <TESTDEVICELIST>
+    <TESTDEVICEITEM id="1" deviceid="Profitest_M" notice="" manufacturer="GOSSEN METRAWATT" type="PROFITEST MXTRA" orderno="M520P" serialno="AB1102" firmware="01.16.00" hardware="B13" calibdate="2018-08-09" adjustmentdate="2016-02-17" recalibdate="2019-08-09" xml="01.05.00" comport="" editable="False"/>
+    <TESTDEVICEITEM id="2" deviceid="SecutestS5" notice="" manufacturer="Gossen-Metrawatt" type="SecuTest S4" orderno="M7050" serialno="ZH5364980011" firmware="01.08.02" hardware="HW:Unknown command" calibdate="2018-01-12T19:13:14" adjustmentdate="" recalibdate="2019-01-12T19:13:14" xml="" comport="" editable="False"/>
+    <TESTDEVICEITEM id="3" deviceid="SecutestS5" notice="" manufacturer="Gossen-Metrawatt" type="SecuTest S4" orderno="M7050" serialno="AG5499170082" firmware="01.08.03" hardware="A25" calibdate="2018-08-28T13:37:00" adjustmentdate="2016-07-19T14:02:44" recalibdate="2019-08-28T13:37:00" xml="" comport="" editable="False"/>
+    <TESTDEVICEITEM id="4" deviceid="SecutestS5" notice="" manufacturer="" type="" orderno="" serialno="" firmware="" hardware="" calibdate="" adjustmentdate="" recalibdate="" xml="" comport="" editable="False"/>
+    <TESTDEVICEITEM id="5" deviceid="Profitest_M" notice="" manufacturer="GOSSEN METRAWATT" type="PROFITEST MXTRA" orderno="M520P" serialno="BK0462" firmware="01.16.00" hardware="B13" calibdate="2017-11-07" adjustmentdate="2017-04-24" recalibdate="2018-11-07" xml="01.05.00" comport="" editable="False"/>
+    <TESTDEVICEITEM id="6" deviceid="Profitest_M" notice="" manufacturer="GOSSEN METRAWATT" type="PROFITEST MXTRA" orderno="M520P" serialno="AK0108" firmware="01.16.00" hardware="B13" calibdate="2018-07-04" adjustmentdate="2016-11-03" recalibdate="2019-07-04" xml="01.05.00" comport="" editable="False"/>
+    <TESTDEVICEITEM id="7" deviceid="SecutestS5" notice="" manufacturer="Gossen-Metrawatt" type="SecuTest S4" orderno="M7050" serialno="AG5499170075" firmware="01.08.02" hardware="A25" calibdate="2017-05-04T18:25:48" adjustmentdate="2016-07-19T09:29:28" recalibdate="2018-05-04T18:25:48" xml="" comport="" editable="False"/>
+    <TESTDEVICEITEM id="8" deviceid="SecutestS5" notice="" manufacturer="Gossen-Metrawatt" type="SecuTest S4" orderno="M7050" serialno="BE5614430031" firmware="01.08.02" hardware="A25" calibdate="2017-05-16T11:52:52" adjustmentdate="2017-05-16T11:08:08" recalibdate="2018-11-16T11:52:52" xml="" comport="" editable="False"/>
+    <TESTDEVICEITEM id="9" deviceid="SecutestS5" notice="" manufacturer="Gossen-Metrawatt" type="SecuTest S4" orderno="M7050" serialno="BA5556480025" firmware="01.07.02" hardware="HW:" calibdate="2017-01-23T15:04:47" adjustmentdate="" recalibdate="2018-07-23T15:04:47" xml="" comport="" editable="False"/>
+    <TESTDEVICEITEM id="10" deviceid="SecutestS5" notice="" manufacturer="Gossen-Metrawatt" type="SecuTest S4" orderno="M7050" serialno="AE5478480048" firmware="01.07.02" hardware="HW:" calibdate="2016-12-19T18:23:27" adjustmentdate="" recalibdate="2018-06-19T18:23:27" xml="" comport="" editable="False"/>
+    <TESTDEVICEITEM id="11" deviceid="SecutestS5" notice="" manufacturer="Gossen-Metrawatt" type="SecuTest S4" orderno="M7050" serialno="BA5556480071" firmware="01.07.02" hardware="HW:" calibdate="2017-02-03T12:28:15" adjustmentdate="" recalibdate="2018-08-03T12:28:15" xml="" comport="" editable="False"/>
+    <TESTDEVICEITEM id="12" deviceid="SecutestS5" notice="" manufacturer="Gossen-Metrawatt" type="SecuTest S4" orderno="M7050" serialno="AG5499170063" firmware="01.08.02" hardware="A26" calibdate="2020-01-30T13:37:00" adjustmentdate="2018-10-25T15:22:06" recalibdate="2021-01-30T13:37:00" xml="" comport="" editable="False"/>
+    <TESTDEVICEITEM id="13" deviceid="SecutestS5" notice="" manufacturer="Gossen-Metrawatt" type="SecuTest S4" orderno="M7050" serialno="CA5722570002" firmware="01.08.02" hardware="A26" calibdate="2020-02-13T13:37:00" adjustmentdate="2018-06-11T07:27:40" recalibdate="2021-02-13T13:37:00" xml="" comport="" editable="False"/>
+    <TESTDEVICEITEM id="14" deviceid="SecutestS5" notice="" manufacturer="Gossen-Metrawatt" type="SecuTest S4" orderno="M7050" serialno="AG5499170015" firmware="01.08.02" hardware="A26" calibdate="2017-08-10T16:45:32" adjustmentdate="2017-08-10T15:38:57" recalibdate="2018-08-10T16:45:32" xml="" comport="" editable="False"/>
+    <TESTDEVICEITEM id="15" deviceid="Profitest_M" notice="" manufacturer="GOSSEN METRAWATT" type="PROFITEST MXTRA" orderno="M520P" serialno="CD0029" firmware="01.16.00" hardware="B13" calibdate="2020-03-12" adjustmentdate="2018-04-04" recalibdate="2021-03-12" xml="01.05.00" comport="" editable="False"/>
+    <TESTDEVICEITEM id="16" deviceid="Profitest_M" notice="" manufacturer="GOSSEN METRAWATT" type="PROFITEST MXTRA" orderno="M520P" serialno="EA0021" firmware="01.16.00" hardware="B13" calibdate="2020-01-08" adjustmentdate="2020-01-08" recalibdate="2021-01-08" xml="01.05.00" comport="" editable="False"/>
+    <TESTDEVICEITEM id="17" deviceid="SecutestS5" notice="" manufacturer="Gossen-Metrawatt" type="SecuTest S4" orderno="M7050" serialno="AA5425260021" firmware="01.08.03" hardware="A25" calibdate="2020-07-15T13:37:00" adjustmentdate="2016-01-21T12:25:40" recalibdate="2021-07-15T13:37:00" xml="" comport="" editable="False"/>
+    <TESTDEVICEITEM id="18" deviceid="Profitest_M" notice="" manufacturer="GOSSEN METRAWATT" type="PROFITEST MXTRA" orderno="M520P" serialno="CI0628" firmware="01.16.00" hardware="B13" calibdate="2019-09-23" adjustmentdate="2018-09-19" recalibdate="2020-09-23" xml="01.05.00" comport="" editable="False"/>
+    <TESTDEVICEITEM id="19" deviceid="Profitest_M" notice="" manufacturer="GOSSEN METRAWATT" type="PROFITEST MXTRA" orderno="M520P" serialno="CF0511" firmware="01.16.00" hardware="B13" calibdate="2019-06-12" adjustmentdate="2018-06-07" recalibdate="2020-06-12" xml="01.05.00" comport="" editable="False"/>
+    <TESTDEVICEITEM id="20" deviceid="Profitest_M" notice="" manufacturer="GOSSEN METRAWATT" type="PROFITEST MXTRA" orderno="M520P" serialno="ZH0399" firmware="01.16.00" hardware="B13" calibdate="2020-02-05" adjustmentdate="2015-08-13" recalibdate="2021-02-05" xml="01.05.00" comport="" editable="False"/>
+    <TESTDEVICEITEM id="21" deviceid="Profitest_M" notice="" manufacturer="GOSSEN METRAWATT" type="PROFITEST MXTRA" orderno="M520P" serialno="CF0539" firmware="01.16.00" hardware="B13" calibdate="2022-06-27" adjustmentdate="2018-06-11" recalibdate="2023-06-27" xml="01.05.00" comport="" editable="False"/>
+  </TESTDEVICELIST>
+  <CONFIG version="" level="" size="" language="" country="">
+    <PROFILES id="" txt="" info="No info" count="6" selected="0" default="0">
+      <PROFILE id="0" txt="ETC" root="0111111011000000000010000000000000" customer="0111111011000000000010000000000000" building="0111111011000000000010000000000000" distributioncabinet="0011111011000000000010000000000000" rcd="0011111001000000000010000000000000" circuit="0011111101000000000010000000000000" measurement="0000000000000000000000000000000000" electricalequipment="0000001000000000000010000000000000" grounding="0000001010000000000010000000000000" machine="0000111111000000000010000000000000" installation="0000001000000000000010000000000000" device="0000001000000000000010000000000000" property="0000001000000000000010000000000000" plane="0000001000000000000010000000000000" room="0000001000000000000010000000000000" definable="0000001000000000000010000000000000" area="0000001000000000000010000000000000" location="0000001000000000000010000000000000" electricalpotential="0000001000000000000010000000000000" measuringpoint="0000001000000000000010000000000000" reportdevice="0000000000000000000000000000000000" esd="0000001000000000000010000000000000"/>
+      <PROFILE id="1" txt="PC.doc" root="0110000000000000000000000000000000" customer="0010000000000000000000000000000000" building="0001010000000000000000000000000000" distributioncabinet="0000110000000000000000000000000000" rcd="0000010000000000000000000000000000" circuit="0000001000000000000000000000000000" measurement="0000000000000000000000000000000000" electricalequipment="0000000000000000000000000000000000" grounding="0000000000000000000000000000000000" machine="0000000000000000000000000000000000" installation="0000000000000000000000000000000000" device="0000000000000000000000000000000000" property="0000000000000000000000000000000000" plane="0000000000000000000000000000000000" room="0000000000000000000000000000000000" definable="0000000000000000000000000000000000" area="0000000000000000000000000000000000" location="0000000000000000000000000000000000" electricalpotential="0000000000000000000000000000000000" measuringpoint="0000000000000000000000000000000000" reportdevice="0000000000000000000000000000000000" esd="0000000000000000000000000000000000"/>
+      <PROFILE id="2" txt="PS3/vFM" root="0111110000000000000000000000000000" customer="0011110000000000000000000000000000" building="0001110000000000000000000000000000" distributioncabinet="0001110000000000000000000000000000" rcd="0000010000000000000000000000000000" circuit="0000001000000000000000000000000000" measurement="0000000000000000000000000000000000" electricalequipment="0000000000000000000000000000000000" grounding="0000000000000000000000000000000000" machine="0000000000000000000000000000000000" installation="0000000000000000000000000000000000" device="0000000000000000000000000000000000" property="0000000000000000000000000000000000" plane="0000000000000000000000000000000000" room="0000000000000000000000000000000000" definable="0000000000000000000000000000000000" area="0000000000000000000000000000000000" location="0000000000000000000000000000000000" electricalpotential="0000000000000000000000000000000000" measuringpoint="0000000000000000000000000000000000" reportdevice="0000000000000000000000000000000000" esd="0000000000000000000000000000000000"/>
+      <PROFILE id="3" txt="EManager" root="0100001000000000000000000000000000" customer="0010001000000000000000000000000000" building="0001001001000000000000000000000000" distributioncabinet="0000111000000000000000000000000000" rcd="0000111000000000000000000000000000" circuit="0001011111000000000000000000000000" measurement="0000000000000000000000000000000000" electricalequipment="0000001000000000000000000000000000" grounding="0000001000000000000000000000000000" machine="0000111000000000000000000000000000" installation="0000000000000000000000000000000000" device="0000000000000000000000000000000000" property="0000000000000000000000000000000000" plane="0000000000000000000000000000000000" room="0000000000000000000000000000000000" definable="0000000000000000000000000000000000" area="0000000000000000000000000000000000" location="0000000000000000000000000000000000" electricalpotential="0000000000000000000000000000000000" measuringpoint="0000000000000000000000000000000000" reportdevice="0000000000000000000000000000000000" esd="0000000000000000000000000000000000"/>
+      <PROFILE id="4" txt="CAD" root="0111110000000000000000000000000000" customer="0111110000000000000000000000000000" building="0011111000000000000000000000000000" distributioncabinet="0011111000000000000000000000000000" rcd="0011111000000000000000000000000000" circuit="0011111000000000000000000000000000" measurement="0000000000000000000000000000000000" electricalequipment="0000000000000000000000000000000000" grounding="0000000000000000000000000000000000" machine="0000000000000000000000000000000000" installation="0000000000000000000000000000000000" device="0000000000000000000000000000000000" property="0000000000000000000000000000000000" plane="0000000000000000000000000000000000" room="0000000000000000000000000000000000" definable="0000000000000000000000000000000000" area="0000000000000000000000000000000000" location="0000000000000000000000000000000000" electricalpotential="0000000000000000000000000000000000" measuringpoint="0000000000000000000000000000000000" reportdevice="0000000000000000000000000000000000" esd="0000000000000000000000000000000000"/>
+      <PROFILE id="5" txt="Variable" root="0111110000000000000000000000000000" customer="0111110000000000000000000000000000" building="0011111000000000000000000000000000" distributioncabinet="0011111000000000000000000000000000" rcd="0011111000000000000000000000000000" circuit="0011111000000000000000000000000000" measurement="0000000000000000000000000000000000" electricalequipment="0000000000000000000000000000000000" grounding="0000000000000000000000000000000000" machine="0000000000000000000000000000000000" installation="0000000000000000000000000000000000" device="0000000000000000000000000000000000" property="0000000000000000000000000000000000" plane="0000000000000000000000000000000000" room="0000000000000000000000000000000000" definable="0000000000000000000000000000000000" area="0000000000000000000000000000000000" location="0000000000000000000000000000000000" electricalpotential="0000000000000000000000000000000000" measuringpoint="0000000000000000000000000000000000" reportdevice="0000000000000000000000000000000000" esd="0000000000000000000000000000000000"/>
+    </PROFILES>
+    <CULTURES id="" txt="" info="" count="0" selected="0" default="0"/>
+    <REGIONS version="" size="" count="0"/>
+    <SYSTEM date="" brightness="0" contrast="0" lighton="" delay=""/>
+    <HARDWARE>
+      <BOARDS id="" txt="" info="" count="0"/>
+      <DISPLAY manufacturer="" width="" heigth=""/>
+    </HARDWARE>
+  </CONFIG>
+  <SELECTIONLISTS version="" level="" size="" language="" country="">
+    <SELECTIONLIST id="0" txt="RCD - Nennfehlerstrom" info="RCD - Nennfehlerstrom" count="6" max="70" idsize="10" txtsize="63" selected="2" default="0" editable="True">
+      <LISTITEM id="6" txt="6mA"/>
+      <LISTITEM id="10" txt="10mA"/>
+      <LISTITEM id="30" txt="30mA"/>
+      <LISTITEM id="100" txt="100mA"/>
+      <LISTITEM id="300" txt="300mA"/>
+      <LISTITEM id="500" txt="500mA"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="1" txt="RCD - Charakteristik" info="RCD - Charakteristik" count="7" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="1" txt="RCD"/>
+      <LISTITEM id="3" txt="RCD Selektiv"/>
+      <LISTITEM id="2" txt="G/R (VSK)"/>
+      <LISTITEM id="4" txt="SRCD"/>
+      <LISTITEM id="5" txt="PRCD-S"/>
+      <LISTITEM id="6" txt="PRCD-K"/>
+      <LISTITEM id="7" txt="RCBO"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="2" txt="RCD - Nennstrom" info="RCD - Nennstrom" count="12" max="70" idsize="10" txtsize="63" selected="1" default="5" editable="False">
+      <LISTITEM id="6" txt="6A"/>
+      <LISTITEM id="10" txt="10A"/>
+      <LISTITEM id="13" txt="13A"/>
+      <LISTITEM id="16" txt="16A"/>
+      <LISTITEM id="20" txt="20A"/>
+      <LISTITEM id="25" txt="25A"/>
+      <LISTITEM id="32" txt="32A"/>
+      <LISTITEM id="40" txt="40A"/>
+      <LISTITEM id="63" txt="63A"/>
+      <LISTITEM id="80" txt="80A"/>
+      <LISTITEM id="100" txt="100A"/>
+      <LISTITEM id="125" txt="125A"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="3" txt="RCD - Typ" info="RCD - Typ" count="6" max="70" idsize="10" txtsize="63" selected="1" default="1" editable="False">
+      <LISTITEM id="3" txt="AC"/>
+      <LISTITEM id="1" txt="A"/>
+      <LISTITEM id="5" txt="F"/>
+      <LISTITEM id="2" txt="B"/>
+      <LISTITEM id="4" txt="B+"/>
+      <LISTITEM id="6" txt="EV"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="4" txt="RCD - Welle" info="RCD - Welle" count="6" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="1" txt="0 Grad Vollwelle"/>
+      <LISTITEM id="2" txt="180 Grad Vollwelle"/>
+      <LISTITEM id="3" txt="neg. Halbwelle"/>
+      <LISTITEM id="4" txt="pos. Halbwelle"/>
+      <LISTITEM id="5" txt="neg. Rechteck"/>
+      <LISTITEM id="6" txt="pos. Rechteck"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="5" txt="RCD - Faktor IDN" info="RCD - Faktor IDN" count="4" max="70" idsize="10" txtsize="63" selected="1" default="1" editable="False">
+      <LISTITEM id="1" txt="(0.5 + 1) x IDN"/>
+      <LISTITEM id="2" txt="1.0x IDN"/>
+      <LISTITEM id="3" txt="2.0x IDN"/>
+      <LISTITEM id="4" txt="5.0x IDN"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="6" txt="RCD - Beruehrspannung" info="RCD - Beruehrspannung" count="3" max="70" idsize="10" txtsize="63" selected="1" default="1" editable="False">
+      <LISTITEM id="25" txt="&lt;25V"/>
+      <LISTITEM id="50" txt="&lt;50V"/>
+      <LISTITEM id="65" txt="&lt;65V"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="7" txt="STKR - Nennstrom" info="STKR - Nennstrom" count="21" max="70" idsize="10" txtsize="63" selected="12" default="0" editable="True">
+      <LISTITEM id="2.0" txt="2.0A"/>
+      <LISTITEM id="3.0" txt="3.0A"/>
+      <LISTITEM id="4.0" txt="4.0A"/>
+      <LISTITEM id="6.0" txt="6.0A"/>
+      <LISTITEM id="8.0" txt="8.0A"/>
+      <LISTITEM id="10" txt="10A"/>
+      <LISTITEM id="13" txt="13A"/>
+      <LISTITEM id="16" txt="16A"/>
+      <LISTITEM id="20" txt="20A"/>
+      <LISTITEM id="25" txt="25A"/>
+      <LISTITEM id="32" txt="32A"/>
+      <LISTITEM id="35" txt="35A"/>
+      <LISTITEM id="40" txt="40A"/>
+      <LISTITEM id="50" txt="50A"/>
+      <LISTITEM id="63" txt="63A"/>
+      <LISTITEM id="80" txt="80A"/>
+      <LISTITEM id="100" txt="100A"/>
+      <LISTITEM id="125" txt="125A"/>
+      <LISTITEM id="160" txt="160A"/>
+      <LISTITEM id="400" txt="400A"/>
+      <LISTITEM id="250" txt="250A"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="8" txt="STKR - Charakteristik" info="STKR - Charakteristik" count="14" max="70" idsize="10" txtsize="63" selected="10" default="0" editable="True">
+      <LISTITEM id="160" txt="1.6"/>
+      <LISTITEM id="7" txt="H"/>
+      <LISTITEM id="1" txt="A"/>
+      <LISTITEM id="350" txt="3.5"/>
+      <LISTITEM id="2" txt="B/L"/>
+      <LISTITEM id="3" txt="E"/>
+      <LISTITEM id="4" txt="C/G"/>
+      <LISTITEM id="1300" txt="13"/>
+      <LISTITEM id="6" txt="K"/>
+      <LISTITEM id="5" txt="D"/>
+      <LISTITEM id="8" txt="gL/gG &lt;5s"/>
+      <LISTITEM id="9" txt="gL/gG &lt;0.4s"/>
+      <LISTITEM id="10" txt="gL/gG &lt;0.2s"/>
+      <LISTITEM id="11" txt="gL/gG &lt;1s"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="9" txt="Leitungsart" info="Leitungsart" count="13" max="200" idsize="10" txtsize="63" selected="10" default="0" editable="True">
+      <LISTITEM id="1" txt="NYM-J"/>
+      <LISTITEM id="2" txt="NYM(N)"/>
+      <LISTITEM id="3" txt="NYIF-J"/>
+      <LISTITEM id="4" txt="NYY"/>
+      <LISTITEM id="5" txt="2XFGY"/>
+      <LISTITEM id="6" txt="H07V-K"/>
+      <LISTITEM id="7" txt="H07V-U"/>
+      <LISTITEM id="8" txt="H05SJ-K"/>
+      <LISTITEM id="9" txt="H07RN-F"/>
+      <LISTITEM id="10" txt="UNBEK."/>
+      <LISTITEM id="11" txt="NYCWY"/>
+      <LISTITEM id="12" txt="NYM"/>
+      <LISTITEM id="13" txt="Flex-JZ"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="10" txt="Querschnitt" info="Querschnitt" count="11" max="70" idsize="10" txtsize="63" selected="4" default="0" editable="True">
+      <LISTITEM id="15" txt="1.5"/>
+      <LISTITEM id="25" txt="2.5"/>
+      <LISTITEM id="40" txt="4.0"/>
+      <LISTITEM id="60" txt="6.0"/>
+      <LISTITEM id="100" txt="10"/>
+      <LISTITEM id="160" txt="16"/>
+      <LISTITEM id="250" txt="25"/>
+      <LISTITEM id="350" txt="35"/>
+      <LISTITEM id="500" txt="50"/>
+      <LISTITEM id="700" txt="70"/>
+      <LISTITEM id="900" txt="90"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="11" txt="Aderanzahl" info="Aderanzahl" count="9" max="70" idsize="10" txtsize="63" selected="4" default="0" editable="True">
+      <LISTITEM id="1" txt="1"/>
+      <LISTITEM id="2" txt="2"/>
+      <LISTITEM id="3" txt="3"/>
+      <LISTITEM id="4" txt="4"/>
+      <LISTITEM id="5" txt="5"/>
+      <LISTITEM id="6" txt="6"/>
+      <LISTITEM id="7" txt="7"/>
+      <LISTITEM id="8" txt="8"/>
+      <LISTITEM id="10" txt="10"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="12" txt="STKR - Welle" info="STKR - Welle" count="4" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="2" txt="Vollwelle"/>
+      <LISTITEM id="1" txt="15mA"/>
+      <LISTITEM id="10" txt="DC-L + positiv"/>
+      <LISTITEM id="12" txt="DC+positiv"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="13" txt="STKR - Stecker" info="STKR - Stecker" count="2" max="70" idsize="10" txtsize="63" selected="1" default="0" editable="False">
+      <LISTITEM id="1" txt="Schuko"/>
+      <LISTITEM id="2" txt="Zweipol"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="14" txt="Erder - Messbereich (Netz)" info="Erder - Messbereich (Netz)" count="6" max="70" idsize="10" txtsize="63" selected="4" default="0" editable="False">
+      <LISTITEM id="7" txt="autorange (Netz)"/>
+      <LISTITEM id="8" txt="10kOHM (Netz)"/>
+      <LISTITEM id="9" txt="1kOHM (Netz)"/>
+      <LISTITEM id="10" txt="100OHM (Netz)"/>
+      <LISTITEM id="11" txt="10OHM (Netz)"/>
+      <LISTITEM id="12" txt="10OHM (Netz) + Ue"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="15" txt="Erder - Abstand" info="Erder - Abstand" count="1" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="20.0" txt="20.0m"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="16" txt="Erder - Methode RE" info="Erder - Methode RE" count="4" max="70" idsize="10" txtsize="63" selected="1" default="2" editable="False">
+      <LISTITEM id="6" txt="RE (Netz)"/>
+      <LISTITEM id="10" txt="RE (Netz) Formel"/>
+      <LISTITEM id="7" txt="RE + Sonde (Netz)"/>
+      <LISTITEM id="8" txt="RE + Zange (Netz)"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="17" txt="RLO - Offset" info="RLO - Offset" count="2" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="0" txt="Offset OFF"/>
+      <LISTITEM id="1" txt="Offset ON"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="18" txt="RLO - Polung" info="RLO - Polung" count="6" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="1" txt="automatische Umpolung"/>
+      <LISTITEM id="2" txt="+Pol an PE"/>
+      <LISTITEM id="3" txt="-Pol an PE"/>
+      <LISTITEM id="4" txt="automatische Umpolung (Rampe)"/>
+      <LISTITEM id="5" txt="+Pol (Rampe)"/>
+      <LISTITEM id="6" txt="-Pol (Rampe)"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="19" txt="RISO - Nennspannung" info="RISO - Nennspannung" count="6" max="70" idsize="10" txtsize="63" selected="4" default="0" editable="True">
+      <LISTITEM id="50" txt="50V"/>
+      <LISTITEM id="100" txt="100V"/>
+      <LISTITEM id="250" txt="250V"/>
+      <LISTITEM id="325" txt="325V"/>
+      <LISTITEM id="500" txt="500V"/>
+      <LISTITEM id="1000" txt="1000V"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="20" txt="RISO - Leiter" info="RISO - Leiter" count="12" max="70" idsize="10" txtsize="63" selected="0" default="11" editable="False">
+      <LISTITEM id="0" txt="L1-PE"/>
+      <LISTITEM id="1" txt="L2-PE"/>
+      <LISTITEM id="2" txt="L3-PE"/>
+      <LISTITEM id="3" txt="N-PE"/>
+      <LISTITEM id="12" txt="L+N-PE"/>
+      <LISTITEM id="4" txt="L1-N"/>
+      <LISTITEM id="5" txt="L2-N"/>
+      <LISTITEM id="6" txt="L3-N"/>
+      <LISTITEM id="7" txt="L1-L2"/>
+      <LISTITEM id="8" txt="L2-L3"/>
+      <LISTITEM id="9" txt="L1-L3"/>
+      <LISTITEM id="10" txt="AUTO"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="21" txt="RISO - Methode" info="RISO - Methode" count="3" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="1" txt="Konstant"/>
+      <LISTITEM id="2" txt="Ansteigend"/>
+      <LISTITEM id="3" txt="Re-ISO"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="22" txt="Dauer" info="Dauer" count="8" max="70" idsize="10" txtsize="63" selected="7" default="7" editable="False">
+      <LISTITEM id="0" txt="AUTO"/>
+      <LISTITEM id="10" txt="10sec"/>
+      <LISTITEM id="30" txt="30sec"/>
+      <LISTITEM id="60" txt="1min"/>
+      <LISTITEM id="300" txt="5min"/>
+      <LISTITEM id="600" txt="10min"/>
+      <LISTITEM id="3600" txt="60min"/>
+      <LISTITEM id="65535" txt=">>>>>"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="23" txt="Speichertyp" info="Speichertyp" count="2" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="2" txt="Manuell"/>
+      <LISTITEM id="1" txt="Autosave"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="24" txt="Prüfer" info="Prüfer" count="2" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="True">
+      <LISTITEM id="1" txt="nicht definiert"/>
+      <LISTITEM id="1" txt="Sefa Gözütok"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="25" txt="Messungen" info="Messungen" count="31" max="70" idsize="10" txtsize="63" selected="6" default="0" editable="False">
+      <LISTITEM id="137" txt="IDN"/>
+      <LISTITEM id="138" txt="IF"/>
+      <LISTITEM id="139" txt="ZLPE"/>
+      <LISTITEM id="140" txt="ZLN"/>
+      <LISTITEM id="141" txt="RE"/>
+      <LISTITEM id="142" txt="RLO"/>
+      <LISTITEM id="129" txt="RISO"/>
+      <LISTITEM id="136" txt="U"/>
+      <LISTITEM id="258" txt="IZANGE"/>
+      <LISTITEM id="3339" txt="ZLN-dU"/>
+      <LISTITEM id="256" txt="ZST"/>
+      <LISTITEM id="145" txt="ZAEHLER"/>
+      <LISTITEM id="131" txt="IL"/>
+      <LISTITEM id="146" txt="IMD"/>
+      <LISTITEM id="263" txt="URES"/>
+      <LISTITEM id="262" txt="IRAMPE"/>
+      <LISTITEM id="261" txt="RCM"/>
+      <LISTITEM id="3342" txt="Ladesäule"/>
+      <LISTITEM id="3345" txt="PRCD"/>
+      <LISTITEM id="3340" txt="RCM-UIDN"/>
+      <LISTITEM id="3341" txt="RCM-ta"/>
+      <LISTITEM id="3334" txt="IDN-UIDN"/>
+      <LISTITEM id="3335" txt="IDN-ta"/>
+      <LISTITEM id="3336" txt="IF-UIDN"/>
+      <LISTITEM id="3337" txt="IF-ID"/>
+      <LISTITEM id="3338" txt="ZLN-IK"/>
+      <LISTITEM id="3351" txt="REISO"/>
+      <LISTITEM id="3352" txt="UISO"/>
+      <LISTITEM id="3343" txt="RE-BAT"/>
+      <LISTITEM id="3344" txt="RE-RHO"/>
+      <LISTITEM id="3333" txt="NoID"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="26" txt="Messgroessen" info="Messgroessen" count="104" max="150" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="0" txt="UIDN"/>
+      <LISTITEM id="1" txt="ta"/>
+      <LISTITEM id="2" txt="ULN"/>
+      <LISTITEM id="3" txt="f"/>
+      <LISTITEM id="4" txt="RE"/>
+      <LISTITEM id="5" txt="ID"/>
+      <LISTITEM id="6" txt="ZLPE"/>
+      <LISTITEM id="7" txt="IK"/>
+      <LISTITEM id="8" txt="ZLN"/>
+      <LISTITEM id="9" txt="UE"/>
+      <LISTITEM id="10" txt="RLO"/>
+      <LISTITEM id="11" txt="dRLO"/>
+      <LISTITEM id="12" txt="RLO+"/>
+      <LISTITEM id="13" txt="RLO-"/>
+      <LISTITEM id="14" txt="RLO-OFFSET"/>
+      <LISTITEM id="15" txt="RISOL1PE"/>
+      <LISTITEM id="16" txt="UISOL1PE"/>
+      <LISTITEM id="17" txt="RISOL2PE"/>
+      <LISTITEM id="18" txt="UISOL2PE"/>
+      <LISTITEM id="19" txt="RISOL3PE"/>
+      <LISTITEM id="20" txt="UISOL3PE"/>
+      <LISTITEM id="21" txt="RISONPE"/>
+      <LISTITEM id="22" txt="UISONPE"/>
+      <LISTITEM id="23" txt="ULPE"/>
+      <LISTITEM id="24" txt="UNPE"/>
+      <LISTITEM id="25" txt="IP"/>
+      <LISTITEM id="26" txt="IZANGE"/>
+      <LISTITEM id="27" txt="ZST"/>
+      <LISTITEM id="28" txt="RST"/>
+      <LISTITEM id="29" txt="P"/>
+      <LISTITEM id="30" txt="dU"/>
+      <LISTITEM id="31" txt="DREHFELD"/>
+      <LISTITEM id="32" txt="USPE"/>
+      <LISTITEM id="33" txt="UL3L1"/>
+      <LISTITEM id="34" txt="UL1L2"/>
+      <LISTITEM id="35" txt="UL2L3"/>
+      <LISTITEM id="36" txt="POLUNG"/>
+      <LISTITEM id="37" txt="REISO"/>
+      <LISTITEM id="38" txt="UEISO"/>
+      <LISTITEM id="39" txt="ZLN-OFFSET"/>
+      <LISTITEM id="40" txt="RISO"/>
+      <LISTITEM id="41" txt="UISO"/>
+      <LISTITEM id="42" txt="IISO"/>
+      <LISTITEM id="43" txt="RE"/>
+      <LISTITEM id="44" txt="REZange"/>
+      <LISTITEM id="45" txt="U(S)"/>
+      <LISTITEM id="46" txt="U(H)"/>
+      <LISTITEM id="47" txt="f(M)"/>
+      <LISTITEM id="48" txt="RHO"/>
+      <LISTITEM id="49" txt="IL"/>
+      <LISTITEM id="50" txt="RLPE"/>
+      <LISTITEM id="51" txt="ILPE"/>
+      <LISTITEM id="52" txt="UL1PE"/>
+      <LISTITEM id="53" txt="UL2PE"/>
+      <LISTITEM id="54" txt="IMD Dauer"/>
+      <LISTITEM id="55" txt="U"/>
+      <LISTITEM id="56" txt="URES"/>
+      <LISTITEM id="57" txt="tU"/>
+      <LISTITEM id="58" txt="UISO"/>
+      <LISTITEM id="59" txt="dU-OFFSET"/>
+      <LISTITEM id="60" txt="STATUS A"/>
+      <LISTITEM id="61" txt="STATUS B"/>
+      <LISTITEM id="62" txt="STATUS C"/>
+      <LISTITEM id="63" txt="STATUS D"/>
+      <LISTITEM id="64" txt="STATUS E"/>
+      <LISTITEM id="65" txt="SIM 13A"/>
+      <LISTITEM id="66" txt="SIM 20A"/>
+      <LISTITEM id="67" txt="SIM 32A"/>
+      <LISTITEM id="68" txt="SIM 63A"/>
+      <LISTITEM id="69" txt="BREAK PE"/>
+      <LISTITEM id="70" txt="R TYP1"/>
+      <LISTITEM id="71" txt="R TYP2"/>
+      <LISTITEM id="72" txt="ON"/>
+      <LISTITEM id="73" txt="BREAK L1"/>
+      <LISTITEM id="74" txt="ON"/>
+      <LISTITEM id="75" txt="BREAK L2"/>
+      <LISTITEM id="76" txt="ON"/>
+      <LISTITEM id="77" txt="BREAK L3"/>
+      <LISTITEM id="78" txt="ON"/>
+      <LISTITEM id="79" txt="BREAK N"/>
+      <LISTITEM id="80" txt="ON"/>
+      <LISTITEM id="81" txt="BREAK PE"/>
+      <LISTITEM id="82" txt="L1 &lt;-> N"/>
+      <LISTITEM id="83" txt="L1 &lt;-> PE"/>
+      <LISTITEM id="84" txt="L2 &lt;-> N"/>
+      <LISTITEM id="85" txt="L2 &lt;-> PE"/>
+      <LISTITEM id="86" txt="L3 &lt;-> N"/>
+      <LISTITEM id="87" txt="L3 &lt;-> PE"/>
+      <LISTITEM id="88" txt="Uext -> PE"/>
+      <LISTITEM id="89" txt="PRCD-Ip"/>
+      <LISTITEM id="90" txt="ON"/>
+      <LISTITEM id="91" txt="BREAK L1"/>
+      <LISTITEM id="92" txt="ON"/>
+      <LISTITEM id="93" txt="BREAK N"/>
+      <LISTITEM id="94" txt="ON"/>
+      <LISTITEM id="95" txt="BREAK PE"/>
+      <LISTITEM id="96" txt="L1 &lt;-> PE"/>
+      <LISTITEM id="97" txt="Uext -> PE"/>
+      <LISTITEM id="98" txt="ON"/>
+      <LISTITEM id="99" txt="PROBE"/>
+      <LISTITEM id="100" txt="PRCD-Ip"/>
+      <LISTITEM id="101" txt="RLPE-OFFSET"/>
+      <LISTITEM id="102" txt="RLN-OFFSET"/>
+      <LISTITEM id="3333" txt="NoID"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="27" txt="Grenzwerte - RISO" info="Grenzwerte - RISO" count="7" max="70" idsize="10" txtsize="63" selected="3" default="3" editable="False">
+      <LISTITEM id="100000" txt=">0.1M"/>
+      <LISTITEM id="300000" txt=">0.3M"/>
+      <LISTITEM id="500000" txt=">0.5M"/>
+      <LISTITEM id="1000000" txt=">1.0M"/>
+      <LISTITEM id="2000000" txt=">2.0M"/>
+      <LISTITEM id="10000000" txt=">10.0M"/>
+      <LISTITEM id="100000000" txt=">100M"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="28" txt="Grenzwerte - ta" info="Grenzwerte - ta" count="8" max="70" idsize="10" txtsize="63" selected="3" default="3" editable="False">
+      <LISTITEM id="40" txt="&lt;40ms"/>
+      <LISTITEM id="150" txt="&lt;150ms"/>
+      <LISTITEM id="200" txt="&lt;200ms"/>
+      <LISTITEM id="300" txt="&lt;300ms"/>
+      <LISTITEM id="400" txt="&lt;400ms"/>
+      <LISTITEM id="500" txt="&lt;500ms"/>
+      <LISTITEM id="1000" txt="&lt;1.00s"/>
+      <LISTITEM id="750" txt="&lt;750ms"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="29" txt="Grenzwerte - IF-G" info="Grenzwerte - IF-G" count="7" max="70" idsize="10" txtsize="63" selected="2" default="2" editable="False">
+      <LISTITEM id="3000" txt=">3.0mA"/>
+      <LISTITEM id="5000" txt=">5.0mA"/>
+      <LISTITEM id="15000" txt=">15.0mA"/>
+      <LISTITEM id="50000" txt=">50.0mA"/>
+      <LISTITEM id="150000" txt=">150mA"/>
+      <LISTITEM id="250000" txt=">250mA"/>
+      <LISTITEM id="100000" txt=">100mA"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="30" txt="Grenzwerte - IF-K" info="Grenzwerte - IF-K" count="8" max="70" idsize="10" txtsize="63" selected="2" default="2" editable="False">
+      <LISTITEM id="6000" txt="&lt;6.0mA"/>
+      <LISTITEM id="10000" txt="&lt;10.0mA"/>
+      <LISTITEM id="30000" txt="&lt;30.0mA"/>
+      <LISTITEM id="100000" txt="&lt;100mA"/>
+      <LISTITEM id="300000" txt="&lt;300mA"/>
+      <LISTITEM id="500000" txt="&lt;500mA"/>
+      <LISTITEM id="1000000" txt="&lt;1.00A"/>
+      <LISTITEM id="750000" txt="&lt;750mA"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="31" txt="Grenzwerte - RLO" info="Grenzwerte - RLO" count="4" max="70" idsize="10" txtsize="63" selected="2" default="2" editable="False">
+      <LISTITEM id="100" txt="&lt;0.10"/>
+      <LISTITEM id="300" txt="&lt;0.30"/>
+      <LISTITEM id="1000" txt="&lt;1.00"/>
+      <LISTITEM id="10000" txt="&lt;10.0"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="32" txt="Grenzwerte - RE" info="Grenzwerte - RE" count="6" max="70" idsize="10" txtsize="63" selected="2" default="2" editable="False">
+      <LISTITEM id="1000" txt="&lt;1.00"/>
+      <LISTITEM id="2000" txt="&lt;2.00"/>
+      <LISTITEM id="10000" txt="&lt;10.0"/>
+      <LISTITEM id="50000" txt="&lt;50.0"/>
+      <LISTITEM id="100000" txt="&lt;100"/>
+      <LISTITEM id="500000" txt="&lt;500"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="33" txt="Grenzwerte - dU" info="Grenzwerte - dU" count="8" max="70" idsize="10" txtsize="63" selected="5" default="5" editable="False">
+      <LISTITEM id="500" txt="TAB:&lt;0.50%"/>
+      <LISTITEM id="1000" txt="TAB:&lt;1.00%"/>
+      <LISTITEM id="1250" txt="TAB:&lt;1.25%"/>
+      <LISTITEM id="1500" txt="TAB:&lt;1.50%"/>
+      <LISTITEM id="3000" txt="DIN:&lt;3.00%"/>
+      <LISTITEM id="4000" txt="VDE:&lt;4.00%"/>
+      <LISTITEM id="5000" txt="NL:&lt;5.00%"/>
+      <LISTITEM id="10000" txt="&lt;10.0%"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="34" txt="Erder - Methode RE (Bat)" info="Erder - Methode RE (Bat)" count="5" max="70" idsize="10" txtsize="63" selected="1" default="0" editable="False">
+      <LISTITEM id="2" txt="3 Leiter (Bat)"/>
+      <LISTITEM id="3" txt="4 Leiter (Bat)"/>
+      <LISTITEM id="5" txt="3 Leiter+ Zange (Bat)"/>
+      <LISTITEM id="9" txt="2 Zangen (Bat)"/>
+      <LISTITEM id="4" txt="RHO (Bat)"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="35" txt="Erder - Messbereich (Bat)" info="Erder - Messbereich (Bat)" count="6" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="1" txt="autorange (Bat)"/>
+      <LISTITEM id="2" txt="50kOHM (Bat)"/>
+      <LISTITEM id="3" txt="20kOHM (Bat)"/>
+      <LISTITEM id="4" txt="2kOHM (Bat)"/>
+      <LISTITEM id="5" txt="200OHM (Bat)"/>
+      <LISTITEM id="6" txt="20OHM (Bat)"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="36" txt="RE - Typ" info="RE - Typ" count="2" max="70" idsize="10" txtsize="63" selected="1" default="0" editable="False">
+      <LISTITEM id="1" txt="Netz"/>
+      <LISTITEM id="2" txt="Bat"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="37" txt="LANGUAGE" info="LANGUAGE" count="12" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="0" txt="D"/>
+      <LISTITEM id="1" txt="GB"/>
+      <LISTITEM id="3" txt="I"/>
+      <LISTITEM id="4" txt="F"/>
+      <LISTITEM id="9" txt="E"/>
+      <LISTITEM id="2" txt="P"/>
+      <LISTITEM id="5" txt="NL"/>
+      <LISTITEM id="7" txt="S"/>
+      <LISTITEM id="13" txt="N"/>
+      <LISTITEM id="14" txt="FIN"/>
+      <LISTITEM id="6" txt="CZ"/>
+      <LISTITEM id="12" txt="PL"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="38" txt="STKR - Offset" info="STKR - Offset" count="2" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="0" txt="Offset OFF"/>
+      <LISTITEM id="1" txt="Offset ON"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="39" txt="STKR - Leiter" info="STKR - Leiter" count="10" max="70" idsize="10" txtsize="63" selected="9" default="9" editable="False">
+      <LISTITEM id="0" txt="L1-PE"/>
+      <LISTITEM id="1" txt="L2-PE"/>
+      <LISTITEM id="2" txt="L3-PE"/>
+      <LISTITEM id="4" txt="L1-N"/>
+      <LISTITEM id="5" txt="L2-N"/>
+      <LISTITEM id="6" txt="L3-N"/>
+      <LISTITEM id="7" txt="L1-L2"/>
+      <LISTITEM id="8" txt="L2-L3"/>
+      <LISTITEM id="9" txt="L1-L3"/>
+      <LISTITEM id="10" txt="AUTO"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="40" txt="NETZ - Leiter" info="NETZ - Leiter" count="11" max="70" idsize="10" txtsize="63" selected="10" default="10" editable="False">
+      <LISTITEM id="0" txt="L1-PE"/>
+      <LISTITEM id="1" txt="L2-PE"/>
+      <LISTITEM id="2" txt="L3-PE"/>
+      <LISTITEM id="3" txt="N-PE"/>
+      <LISTITEM id="4" txt="L1-N"/>
+      <LISTITEM id="5" txt="L2-N"/>
+      <LISTITEM id="6" txt="L3-N"/>
+      <LISTITEM id="7" txt="L1-L2"/>
+      <LISTITEM id="8" txt="L2-L3"/>
+      <LISTITEM id="9" txt="L1-L3"/>
+      <LISTITEM id="10" txt="AUTO"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="41" txt="Grenzwerte - IK-Typ" info="Grenzwerte - IK-Typ" count="4" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="0" txt="2/3 Zs"/>
+      <LISTITEM id="1" txt="3/4 Zs"/>
+      <LISTITEM id="2" txt="Ia"/>
+      <LISTITEM id="3" txt="Ia + delta"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="42" txt="Netz - Typ" info="Netz - Typ" count="2" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="0" txt="TN/TT"/>
+      <LISTITEM id="1" txt="IT"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="43" txt="SENSOR I-ZANGE" info="SENSOR I-ZANGE" count="5" max="70" idsize="10" txtsize="63" selected="4" default="1" editable="False">
+      <LISTITEM id="0" txt="10V/A"/>
+      <LISTITEM id="1" txt="1000mV/A"/>
+      <LISTITEM id="10" txt="100mV/A"/>
+      <LISTITEM id="100" txt="10mV/A"/>
+      <LISTITEM id="1000" txt="1mV/A"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="44" txt="U - Typ" info="U - Typ" count="2" max="70" idsize="10" txtsize="63" selected="1" default="0" editable="False">
+      <LISTITEM id="2" txt="U-LN"/>
+      <LISTITEM id="3" txt="U-DREH"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="45" txt="Extra - Typ" info="Extra - Typ" count="10" max="70" idsize="10" txtsize="63" selected="4" default="0" editable="False">
+      <LISTITEM id="3" txt="ZLN-dU"/>
+      <LISTITEM id="1" txt="Standort-Isolation"/>
+      <LISTITEM id="2" txt="Zaehleranlauf"/>
+      <LISTITEM id="4" txt="IL"/>
+      <LISTITEM id="5" txt="IMD"/>
+      <LISTITEM id="6" txt="URES"/>
+      <LISTITEM id="7" txt="IRAMPE"/>
+      <LISTITEM id="8" txt="RCM"/>
+      <LISTITEM id="9" txt="Ladesäule"/>
+      <LISTITEM id="10" txt="PRCD-Adapter"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="46" txt="Betriebsmittel - Art/Typ" info="Betriebsmittel - Art/Typ" count="28" max="200" idsize="10" txtsize="63" selected="5" default="0" editable="True">
+      <LISTITEM id="001" txt="Steckdose"/>
+      <LISTITEM id="002" txt="Wechselschalter"/>
+      <LISTITEM id="003" txt="Ausschalter"/>
+      <LISTITEM id="004" txt="Serienschalter"/>
+      <LISTITEM id="005" txt="Auslass"/>
+      <LISTITEM id="006" txt="Leuchte"/>
+      <LISTITEM id="007" txt="Taster"/>
+      <LISTITEM id="008" txt="Dimmer"/>
+      <LISTITEM id="009" txt="Notschalter"/>
+      <LISTITEM id="010" txt="Nottaster"/>
+      <LISTITEM id="011" txt="Rolladenschalter"/>
+      <LISTITEM id="012" txt="Rolladentaster"/>
+      <LISTITEM id="013" txt="Schluesselschalter"/>
+      <LISTITEM id="014" txt="Schluesseltaster"/>
+      <LISTITEM id="015" txt="Zeitschalter"/>
+      <LISTITEM id="016" txt="Bewegungsmelder"/>
+      <LISTITEM id="017" txt="Geraetesteckdose"/>
+      <LISTITEM id="018" txt="Telefonanschluss"/>
+      <LISTITEM id="019" txt="TV-Steckdose"/>
+      <LISTITEM id="020" txt="EDV-Steckdose"/>
+      <LISTITEM id="021" txt="Sprechstelle"/>
+      <LISTITEM id="022" txt="Klingel"/>
+      <LISTITEM id="023" txt="EIB-Aktor"/>
+      <LISTITEM id="024" txt="EIB-Sensor"/>
+      <LISTITEM id="025" txt="Wasserkocher"/>
+      <LISTITEM id="026" txt="Verteiler"/>
+      <LISTITEM id="027" txt="Ladesäule"/>
+      <LISTITEM id="028" txt="CEE-Steckdose"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="47" txt="Erder - Methode IDN" info="Erder - Methode IDN" count="2" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="6" txt="RE (Netz)"/>
+      <LISTITEM id="7" txt="RE + Sonde (Netz)"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="48" txt="RCD IF - Welle" info="RCD IF - Welle" count="5" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="1" txt="0 Grad Vollwelle"/>
+      <LISTITEM id="3" txt="neg. Halbwelle"/>
+      <LISTITEM id="4" txt="pos. Halbwelle"/>
+      <LISTITEM id="5" txt="neg. Rechteck"/>
+      <LISTITEM id="6" txt="pos. Rechteck"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="49" txt="Dauer" info="Dauer" count="4" max="70" idsize="10" txtsize="63" selected="1" default="1" editable="False">
+      <LISTITEM id="10" txt="10 s"/>
+      <LISTITEM id="15" txt="15 s"/>
+      <LISTITEM id="20" txt="20 s"/>
+      <LISTITEM id="30" txt="30 s"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="50" txt="Dauer" info="Dauer" count="5" max="70" idsize="10" txtsize="63" selected="1" default="1" editable="False">
+      <LISTITEM id="30" txt="30 s"/>
+      <LISTITEM id="60" txt="60 s"/>
+      <LISTITEM id="120" txt="120 s"/>
+      <LISTITEM id="300" txt="5 min"/>
+      <LISTITEM id="65535" txt=">>>>>"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="51" txt="Verifikation Messgroessen" info="Verifikation Messgroessen" count="3" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="0" txt="L-N"/>
+      <LISTITEM id="1" txt="N-L"/>
+      <LISTITEM id="2" txt="FEHLER"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="52" txt="Verifikation Messgroessen" info="Verifikation Messgroessen" count="3" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="0" txt="rechts"/>
+      <LISTITEM id="1" txt="links"/>
+      <LISTITEM id="2" txt="FEHLER"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="53" txt="Grenzwerte - ta" info="Grenzwerte - ta" count="7" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="0" txt=">0ms"/>
+      <LISTITEM id="50" txt=">50ms"/>
+      <LISTITEM id="60" txt=">60ms"/>
+      <LISTITEM id="130" txt=">130ms"/>
+      <LISTITEM id="250" txt=">250ms"/>
+      <LISTITEM id="500" txt=">500ms"/>
+      <LISTITEM id="100" txt=">100ms"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="54" txt="Re - Welle" info="Re - Welle" count="4" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="2" txt="Vollwelle"/>
+      <LISTITEM id="1" txt="15mA"/>
+      <LISTITEM id="10" txt="DC-L + positiv"/>
+      <LISTITEM id="12" txt="DC+positiv"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="55" txt="Grenzwerte - REISO" info="Grenzwerte - REISO" count="5" max="70" idsize="10" txtsize="63" selected="3" default="3" editable="False">
+      <LISTITEM id="250000" txt="&lt;0.25M"/>
+      <LISTITEM id="500000" txt="&lt;0.50M"/>
+      <LISTITEM id="750000" txt="&lt;0.75M"/>
+      <LISTITEM id="1000000" txt="&lt;1.00M"/>
+      <LISTITEM id="100000000" txt="&lt;100M"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="56" txt="Grenzwerte - RISO_I" info="Grenzwerte - RISO_I" count="6" max="70" idsize="10" txtsize="63" selected="3" default="3" editable="False">
+      <LISTITEM id="5" txt="5uA"/>
+      <LISTITEM id="50" txt="50uA"/>
+      <LISTITEM id="500" txt="500uA"/>
+      <LISTITEM id="1000" txt="1.00mA"/>
+      <LISTITEM id="1250" txt="1.25mA"/>
+      <LISTITEM id="750" txt="750uA"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="57" txt="Barcode - Reporttypen" info="Barcode - Reporttypen" count="7" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="0" txt="Fehler"/>
+      <LISTITEM id="1" txt="Hinweis"/>
+      <LISTITEM id="2" txt="Prüfung"/>
+      <LISTITEM id="3" txt="Besichtigung"/>
+      <LISTITEM id="4" txt="Erprobung"/>
+      <LISTITEM id="5" txt="Protokollierung"/>
+      <LISTITEM id="6" txt="Interner Fehler"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="58" txt="Barcode - Mängel" info="Barcode - Mängel" count="100" max="100" idsize="10" txtsize="63" selected="0" default="0" editable="True">
+      <LISTITEM id="001" txt=""/>
+      <LISTITEM id="002" txt=""/>
+      <LISTITEM id="003" txt=""/>
+      <LISTITEM id="004" txt=""/>
+      <LISTITEM id="005" txt=""/>
+      <LISTITEM id="006" txt=""/>
+      <LISTITEM id="007" txt=""/>
+      <LISTITEM id="008" txt=""/>
+      <LISTITEM id="009" txt=""/>
+      <LISTITEM id="010" txt="Abdeckung schadhaft"/>
+      <LISTITEM id="011" txt="Abdeckung fehlt"/>
+      <LISTITEM id="012" txt="Betriebsmittel nicht ordnungsgemäß eingebaut"/>
+      <LISTITEM id="013" txt="Betriebsmittelbezeichnung fehlt"/>
+      <LISTITEM id="014" txt="Gehäuse defekt"/>
+      <LISTITEM id="015" txt="Anlage verschmutzt / Lüftung behindert"/>
+      <LISTITEM id="016" txt="Betriebsmittel falsch"/>
+      <LISTITEM id="017" txt="Zugänglichkeit nicht gewährleistet"/>
+      <LISTITEM id="018" txt="Mechanischer Schutz fehlt"/>
+      <LISTITEM id="019" txt="Verbindung unsachgemäß"/>
+      <LISTITEM id="020" txt="Wärmeschaden"/>
+      <LISTITEM id="021" txt="Brandschutz fehlt"/>
+      <LISTITEM id="022" txt="Material für Umgebungstemperatur nicht geeignet"/>
+      <LISTITEM id="023" txt="Brandschottung fehlt"/>
+      <LISTITEM id="024" txt="Überstromschutz falsch eingestellt"/>
+      <LISTITEM id="025" txt="Dokumentation unvollständig"/>
+      <LISTITEM id="026" txt="Dokumentation nicht aktualisiert"/>
+      <LISTITEM id="027" txt="N-Leiter fehlt"/>
+      <LISTITEM id="028" txt="Plombierung fehlt"/>
+      <LISTITEM id="029" txt=""/>
+      <LISTITEM id="030" txt=""/>
+      <LISTITEM id="031" txt=""/>
+      <LISTITEM id="032" txt=""/>
+      <LISTITEM id="033" txt=""/>
+      <LISTITEM id="034" txt=""/>
+      <LISTITEM id="035" txt=""/>
+      <LISTITEM id="036" txt=""/>
+      <LISTITEM id="037" txt=""/>
+      <LISTITEM id="038" txt=""/>
+      <LISTITEM id="039" txt=""/>
+      <LISTITEM id="040" txt="Schutzleiter nicht wirksam"/>
+      <LISTITEM id="041" txt="Schutzleiter falsch gekennzeichnet"/>
+      <LISTITEM id="042" txt="Schutzleiter fehlt"/>
+      <LISTITEM id="043" txt="Berührungsschutz fehlt"/>
+      <LISTITEM id="044" txt="Schutzisolierung durchbrochen"/>
+      <LISTITEM id="045" txt="Schutzart falsch"/>
+      <LISTITEM id="046" txt="Haupt-Potentialausgleich fehlt / unvollständig"/>
+      <LISTITEM id="047" txt="Zusätzlicher Potentialausgleich fehlt / unvollständig"/>
+      <LISTITEM id="048" txt="Schutzleiter als Außenleiter verwendet"/>
+      <LISTITEM id="049" txt="FI-Schutzeinrichtung fehlt"/>
+      <LISTITEM id="050" txt="FI-Schutzeinrichtung überbrückt"/>
+      <LISTITEM id="051" txt="Spannungsebenen nicht sicher getrennt"/>
+      <LISTITEM id="052" txt="Schutzmaßnahme falsch"/>
+      <LISTITEM id="053" txt=""/>
+      <LISTITEM id="054" txt=""/>
+      <LISTITEM id="055" txt=""/>
+      <LISTITEM id="056" txt=""/>
+      <LISTITEM id="057" txt=""/>
+      <LISTITEM id="058" txt=""/>
+      <LISTITEM id="059" txt=""/>
+      <LISTITEM id="060" txt="Zielbezeichnung fehlt"/>
+      <LISTITEM id="061" txt="Passeinsätze falsch / fehlen"/>
+      <LISTITEM id="062" txt="Verdrahtung mangelhaft"/>
+      <LISTITEM id="063" txt="Überstromschutzeinrichtung falsch eingestellt"/>
+      <LISTITEM id="064" txt="Überstromschutzeinrichtung falsch"/>
+      <LISTITEM id="065" txt="Schraubkappe defekt"/>
+      <LISTITEM id="066" txt="Sicherung geflickt"/>
+      <LISTITEM id="067" txt="Lichtbogentrennung fehlt"/>
+      <LISTITEM id="068" txt="Abdeckung fehlt"/>
+      <LISTITEM id="069" txt=""/>
+      <LISTITEM id="070" txt=""/>
+      <LISTITEM id="071" txt=""/>
+      <LISTITEM id="072" txt=""/>
+      <LISTITEM id="073" txt=""/>
+      <LISTITEM id="074" txt=""/>
+      <LISTITEM id="075" txt=""/>
+      <LISTITEM id="076" txt=""/>
+      <LISTITEM id="077" txt=""/>
+      <LISTITEM id="078" txt=""/>
+      <LISTITEM id="079" txt=""/>
+      <LISTITEM id="080" txt="Leitungsverlegung unsachgemäß"/>
+      <LISTITEM id="081" txt="Leitung beschädigt"/>
+      <LISTITEM id="082" txt="Leitung unzulässig"/>
+      <LISTITEM id="083" txt="Leitungseinführung unvorschriftsmäßig"/>
+      <LISTITEM id="084" txt="Querschnitt falsch"/>
+      <LISTITEM id="085" txt="Aderendhülsen fehlen"/>
+      <LISTITEM id="086" txt="Brandlast zu hoch"/>
+      <LISTITEM id="087" txt="Verlegesysteme falsch dimensioniert / befestigt"/>
+      <LISTITEM id="088" txt=""/>
+      <LISTITEM id="089" txt=""/>
+      <LISTITEM id="090" txt="Leuchtmittel falsch"/>
+      <LISTITEM id="091" txt="Leuchtmittel defekt / fehlt"/>
+      <LISTITEM id="092" txt="Leuchtenabdeckung fehlt"/>
+      <LISTITEM id="093" txt="Schutzabstand nicht eingehalten"/>
+      <LISTITEM id="094" txt=""/>
+      <LISTITEM id="095" txt=""/>
+      <LISTITEM id="096" txt=""/>
+      <LISTITEM id="097" txt=""/>
+      <LISTITEM id="098" txt=""/>
+      <LISTITEM id="099" txt=""/>
+      <LISTITEM id="100" txt=""/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="59" txt="Barcode - Hinweis" info="Barcode - Hinweis" count="70" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="True">
+      <LISTITEM id="001" txt="Messbedingungen waren nicht vorteilhaft"/>
+      <LISTITEM id="002" txt="Messwert hat sich verschlechtert"/>
+      <LISTITEM id="003" txt="Prüfobjekt war nicht auffindbar"/>
+      <LISTITEM id="004" txt="Stolpergefahr"/>
+      <LISTITEM id="005" txt=""/>
+      <LISTITEM id="006" txt=""/>
+      <LISTITEM id="007" txt=""/>
+      <LISTITEM id="008" txt=""/>
+      <LISTITEM id="009" txt=""/>
+      <LISTITEM id="010" txt=""/>
+      <LISTITEM id="011" txt=""/>
+      <LISTITEM id="012" txt=""/>
+      <LISTITEM id="013" txt=""/>
+      <LISTITEM id="014" txt=""/>
+      <LISTITEM id="015" txt=""/>
+      <LISTITEM id="016" txt=""/>
+      <LISTITEM id="017" txt=""/>
+      <LISTITEM id="018" txt=""/>
+      <LISTITEM id="019" txt=""/>
+      <LISTITEM id="020" txt=""/>
+      <LISTITEM id="021" txt=""/>
+      <LISTITEM id="022" txt=""/>
+      <LISTITEM id="023" txt=""/>
+      <LISTITEM id="024" txt=""/>
+      <LISTITEM id="025" txt=""/>
+      <LISTITEM id="026" txt=""/>
+      <LISTITEM id="027" txt=""/>
+      <LISTITEM id="028" txt=""/>
+      <LISTITEM id="029" txt=""/>
+      <LISTITEM id="030" txt=""/>
+      <LISTITEM id="031" txt=""/>
+      <LISTITEM id="032" txt=""/>
+      <LISTITEM id="033" txt=""/>
+      <LISTITEM id="034" txt=""/>
+      <LISTITEM id="035" txt=""/>
+      <LISTITEM id="036" txt=""/>
+      <LISTITEM id="037" txt=""/>
+      <LISTITEM id="038" txt=""/>
+      <LISTITEM id="039" txt=""/>
+      <LISTITEM id="040" txt=""/>
+      <LISTITEM id="041" txt=""/>
+      <LISTITEM id="042" txt=""/>
+      <LISTITEM id="043" txt=""/>
+      <LISTITEM id="044" txt=""/>
+      <LISTITEM id="045" txt=""/>
+      <LISTITEM id="046" txt=""/>
+      <LISTITEM id="047" txt=""/>
+      <LISTITEM id="048" txt=""/>
+      <LISTITEM id="049" txt=""/>
+      <LISTITEM id="050" txt=""/>
+      <LISTITEM id="051" txt=""/>
+      <LISTITEM id="052" txt=""/>
+      <LISTITEM id="053" txt=""/>
+      <LISTITEM id="054" txt=""/>
+      <LISTITEM id="055" txt=""/>
+      <LISTITEM id="056" txt=""/>
+      <LISTITEM id="057" txt=""/>
+      <LISTITEM id="058" txt=""/>
+      <LISTITEM id="059" txt=""/>
+      <LISTITEM id="060" txt=""/>
+      <LISTITEM id="061" txt=""/>
+      <LISTITEM id="062" txt=""/>
+      <LISTITEM id="063" txt=""/>
+      <LISTITEM id="064" txt=""/>
+      <LISTITEM id="065" txt=""/>
+      <LISTITEM id="066" txt=""/>
+      <LISTITEM id="067" txt=""/>
+      <LISTITEM id="068" txt=""/>
+      <LISTITEM id="069" txt=""/>
+      <LISTITEM id="070" txt=""/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="60" txt="Barcode - Prüfung" info="Barcode - Prüfung" count="70" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="True">
+      <LISTITEM id="001" txt="Neuanlage"/>
+      <LISTITEM id="002" txt="Erweiterung"/>
+      <LISTITEM id="003" txt="Änderung"/>
+      <LISTITEM id="004" txt="Instandsetzung"/>
+      <LISTITEM id="005" txt="Wiederholung / E-Check"/>
+      <LISTITEM id="006" txt="DIN VDE 0105"/>
+      <LISTITEM id="007" txt="DIN VDE 0100 Teil 600"/>
+      <LISTITEM id="008" txt="DIN VDE 0829 / EN 50090"/>
+      <LISTITEM id="009" txt="UVV DGUV Vorschrift 3"/>
+      <LISTITEM id="010" txt="Sonstiges"/>
+      <LISTITEM id="011" txt=""/>
+      <LISTITEM id="012" txt=""/>
+      <LISTITEM id="013" txt=""/>
+      <LISTITEM id="014" txt=""/>
+      <LISTITEM id="015" txt=""/>
+      <LISTITEM id="016" txt=""/>
+      <LISTITEM id="017" txt=""/>
+      <LISTITEM id="018" txt=""/>
+      <LISTITEM id="019" txt=""/>
+      <LISTITEM id="020" txt=""/>
+      <LISTITEM id="021" txt=""/>
+      <LISTITEM id="022" txt=""/>
+      <LISTITEM id="023" txt=""/>
+      <LISTITEM id="024" txt=""/>
+      <LISTITEM id="025" txt=""/>
+      <LISTITEM id="026" txt=""/>
+      <LISTITEM id="027" txt=""/>
+      <LISTITEM id="028" txt=""/>
+      <LISTITEM id="029" txt=""/>
+      <LISTITEM id="030" txt=""/>
+      <LISTITEM id="031" txt=""/>
+      <LISTITEM id="032" txt=""/>
+      <LISTITEM id="033" txt=""/>
+      <LISTITEM id="034" txt=""/>
+      <LISTITEM id="035" txt=""/>
+      <LISTITEM id="036" txt=""/>
+      <LISTITEM id="037" txt=""/>
+      <LISTITEM id="038" txt=""/>
+      <LISTITEM id="039" txt=""/>
+      <LISTITEM id="040" txt=""/>
+      <LISTITEM id="041" txt=""/>
+      <LISTITEM id="042" txt=""/>
+      <LISTITEM id="043" txt=""/>
+      <LISTITEM id="044" txt=""/>
+      <LISTITEM id="045" txt=""/>
+      <LISTITEM id="046" txt=""/>
+      <LISTITEM id="047" txt=""/>
+      <LISTITEM id="048" txt=""/>
+      <LISTITEM id="049" txt=""/>
+      <LISTITEM id="050" txt=""/>
+      <LISTITEM id="051" txt=""/>
+      <LISTITEM id="052" txt=""/>
+      <LISTITEM id="053" txt=""/>
+      <LISTITEM id="054" txt=""/>
+      <LISTITEM id="055" txt=""/>
+      <LISTITEM id="056" txt=""/>
+      <LISTITEM id="057" txt=""/>
+      <LISTITEM id="058" txt=""/>
+      <LISTITEM id="059" txt=""/>
+      <LISTITEM id="060" txt=""/>
+      <LISTITEM id="061" txt=""/>
+      <LISTITEM id="062" txt=""/>
+      <LISTITEM id="063" txt=""/>
+      <LISTITEM id="064" txt=""/>
+      <LISTITEM id="065" txt=""/>
+      <LISTITEM id="066" txt=""/>
+      <LISTITEM id="067" txt=""/>
+      <LISTITEM id="068" txt=""/>
+      <LISTITEM id="069" txt=""/>
+      <LISTITEM id="070" txt=""/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="61" txt="Barcode - Besichtigung" info="Barcode - Besichtigung" count="70" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="True">
+      <LISTITEM id="001" txt="Auswahl der Betriebsmittel"/>
+      <LISTITEM id="002" txt="Trenn- und Schaltgeräte"/>
+      <LISTITEM id="003" txt="Brandabschottungen"/>
+      <LISTITEM id="004" txt="Gebäudesystemtechnik"/>
+      <LISTITEM id="005" txt="Kabel, Leitungen, Stromschienen"/>
+      <LISTITEM id="006" txt="Kennzeichnung Stromkreis, Betriebsmittel"/>
+      <LISTITEM id="007" txt="Kennzeichnung N- und PE-Leiter"/>
+      <LISTITEM id="008" txt="Leiterverbindungen"/>
+      <LISTITEM id="009" txt="Schutz und Überwachungseinrichtungen"/>
+      <LISTITEM id="010" txt="Schutz gegen direktes Berühren"/>
+      <LISTITEM id="011" txt="Zugänglichkeit"/>
+      <LISTITEM id="012" txt="Hauptpotentialausgleich"/>
+      <LISTITEM id="013" txt="Zus. örtl. Potentialausgleich"/>
+      <LISTITEM id="014" txt="Dokumentation siehe Ergänzungsblätter"/>
+      <LISTITEM id="015" txt=""/>
+      <LISTITEM id="016" txt=""/>
+      <LISTITEM id="017" txt=""/>
+      <LISTITEM id="018" txt=""/>
+      <LISTITEM id="019" txt=""/>
+      <LISTITEM id="020" txt=""/>
+      <LISTITEM id="021" txt=""/>
+      <LISTITEM id="022" txt=""/>
+      <LISTITEM id="023" txt=""/>
+      <LISTITEM id="024" txt=""/>
+      <LISTITEM id="025" txt=""/>
+      <LISTITEM id="026" txt=""/>
+      <LISTITEM id="027" txt=""/>
+      <LISTITEM id="028" txt=""/>
+      <LISTITEM id="029" txt=""/>
+      <LISTITEM id="030" txt=""/>
+      <LISTITEM id="031" txt=""/>
+      <LISTITEM id="032" txt=""/>
+      <LISTITEM id="033" txt=""/>
+      <LISTITEM id="034" txt=""/>
+      <LISTITEM id="035" txt=""/>
+      <LISTITEM id="036" txt=""/>
+      <LISTITEM id="037" txt=""/>
+      <LISTITEM id="038" txt=""/>
+      <LISTITEM id="039" txt=""/>
+      <LISTITEM id="040" txt=""/>
+      <LISTITEM id="041" txt=""/>
+      <LISTITEM id="042" txt=""/>
+      <LISTITEM id="043" txt=""/>
+      <LISTITEM id="044" txt=""/>
+      <LISTITEM id="045" txt=""/>
+      <LISTITEM id="046" txt=""/>
+      <LISTITEM id="047" txt=""/>
+      <LISTITEM id="048" txt=""/>
+      <LISTITEM id="049" txt=""/>
+      <LISTITEM id="050" txt=""/>
+      <LISTITEM id="051" txt=""/>
+      <LISTITEM id="052" txt=""/>
+      <LISTITEM id="053" txt=""/>
+      <LISTITEM id="054" txt=""/>
+      <LISTITEM id="055" txt=""/>
+      <LISTITEM id="056" txt=""/>
+      <LISTITEM id="057" txt=""/>
+      <LISTITEM id="058" txt=""/>
+      <LISTITEM id="059" txt=""/>
+      <LISTITEM id="060" txt=""/>
+      <LISTITEM id="061" txt=""/>
+      <LISTITEM id="062" txt=""/>
+      <LISTITEM id="063" txt=""/>
+      <LISTITEM id="064" txt=""/>
+      <LISTITEM id="065" txt=""/>
+      <LISTITEM id="066" txt=""/>
+      <LISTITEM id="067" txt=""/>
+      <LISTITEM id="068" txt=""/>
+      <LISTITEM id="069" txt=""/>
+      <LISTITEM id="070" txt=""/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="62" txt="Barcode - Erprobung" info="Barcode - Erprobung" count="70" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="True">
+      <LISTITEM id="001" txt="Funktionsprüfung der Anlage"/>
+      <LISTITEM id="002" txt="FI-Schutzschalter (RCD)"/>
+      <LISTITEM id="003" txt="Funktion der Schutz-, Sicherheits- und Überwachungseinr."/>
+      <LISTITEM id="004" txt="Drehrichtung der Motoren"/>
+      <LISTITEM id="005" txt="Rechtsdrehfeld der Drehstromsteckdose"/>
+      <LISTITEM id="006" txt="Gebäudesystemtechnik"/>
+      <LISTITEM id="007" txt=""/>
+      <LISTITEM id="008" txt=""/>
+      <LISTITEM id="009" txt=""/>
+      <LISTITEM id="010" txt=""/>
+      <LISTITEM id="011" txt=""/>
+      <LISTITEM id="012" txt=""/>
+      <LISTITEM id="013" txt=""/>
+      <LISTITEM id="014" txt=""/>
+      <LISTITEM id="015" txt=""/>
+      <LISTITEM id="016" txt=""/>
+      <LISTITEM id="017" txt=""/>
+      <LISTITEM id="018" txt=""/>
+      <LISTITEM id="019" txt=""/>
+      <LISTITEM id="020" txt=""/>
+      <LISTITEM id="021" txt=""/>
+      <LISTITEM id="022" txt=""/>
+      <LISTITEM id="023" txt=""/>
+      <LISTITEM id="024" txt=""/>
+      <LISTITEM id="025" txt=""/>
+      <LISTITEM id="026" txt=""/>
+      <LISTITEM id="027" txt=""/>
+      <LISTITEM id="028" txt=""/>
+      <LISTITEM id="029" txt=""/>
+      <LISTITEM id="030" txt=""/>
+      <LISTITEM id="031" txt=""/>
+      <LISTITEM id="032" txt=""/>
+      <LISTITEM id="033" txt=""/>
+      <LISTITEM id="034" txt=""/>
+      <LISTITEM id="035" txt=""/>
+      <LISTITEM id="036" txt=""/>
+      <LISTITEM id="037" txt=""/>
+      <LISTITEM id="038" txt=""/>
+      <LISTITEM id="039" txt=""/>
+      <LISTITEM id="040" txt=""/>
+      <LISTITEM id="041" txt=""/>
+      <LISTITEM id="042" txt=""/>
+      <LISTITEM id="043" txt=""/>
+      <LISTITEM id="044" txt=""/>
+      <LISTITEM id="045" txt=""/>
+      <LISTITEM id="046" txt=""/>
+      <LISTITEM id="047" txt=""/>
+      <LISTITEM id="048" txt=""/>
+      <LISTITEM id="049" txt=""/>
+      <LISTITEM id="050" txt=""/>
+      <LISTITEM id="051" txt=""/>
+      <LISTITEM id="052" txt=""/>
+      <LISTITEM id="053" txt=""/>
+      <LISTITEM id="054" txt=""/>
+      <LISTITEM id="055" txt=""/>
+      <LISTITEM id="056" txt=""/>
+      <LISTITEM id="057" txt=""/>
+      <LISTITEM id="058" txt=""/>
+      <LISTITEM id="059" txt=""/>
+      <LISTITEM id="060" txt=""/>
+      <LISTITEM id="061" txt=""/>
+      <LISTITEM id="062" txt=""/>
+      <LISTITEM id="063" txt=""/>
+      <LISTITEM id="064" txt=""/>
+      <LISTITEM id="065" txt=""/>
+      <LISTITEM id="066" txt=""/>
+      <LISTITEM id="067" txt=""/>
+      <LISTITEM id="068" txt=""/>
+      <LISTITEM id="069" txt=""/>
+      <LISTITEM id="070" txt=""/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="63" txt="Barcode - Protokollierung" info="Barcode - Protokollierung" count="70" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="True">
+      <LISTITEM id="001" txt="Schaltungsunterlagen übergeben"/>
+      <LISTITEM id="002" txt="EIB-Lastenheft übergeben"/>
+      <LISTITEM id="003" txt="Prüfergebnis mängelfrei"/>
+      <LISTITEM id="004" txt="Prüfplakette im Stromkreisverteiler eingeklebt"/>
+      <LISTITEM id="005" txt="Anlage entspricht den anerkannten Regeln der Elektrotechnik"/>
+      <LISTITEM id="006" txt=""/>
+      <LISTITEM id="007" txt=""/>
+      <LISTITEM id="008" txt=""/>
+      <LISTITEM id="009" txt=""/>
+      <LISTITEM id="010" txt=""/>
+      <LISTITEM id="011" txt=""/>
+      <LISTITEM id="012" txt=""/>
+      <LISTITEM id="013" txt=""/>
+      <LISTITEM id="014" txt=""/>
+      <LISTITEM id="015" txt=""/>
+      <LISTITEM id="016" txt=""/>
+      <LISTITEM id="017" txt=""/>
+      <LISTITEM id="018" txt=""/>
+      <LISTITEM id="019" txt=""/>
+      <LISTITEM id="020" txt=""/>
+      <LISTITEM id="021" txt=""/>
+      <LISTITEM id="022" txt=""/>
+      <LISTITEM id="023" txt=""/>
+      <LISTITEM id="024" txt=""/>
+      <LISTITEM id="025" txt=""/>
+      <LISTITEM id="026" txt=""/>
+      <LISTITEM id="027" txt=""/>
+      <LISTITEM id="028" txt=""/>
+      <LISTITEM id="029" txt=""/>
+      <LISTITEM id="030" txt=""/>
+      <LISTITEM id="031" txt=""/>
+      <LISTITEM id="032" txt=""/>
+      <LISTITEM id="033" txt=""/>
+      <LISTITEM id="034" txt=""/>
+      <LISTITEM id="035" txt=""/>
+      <LISTITEM id="036" txt=""/>
+      <LISTITEM id="037" txt=""/>
+      <LISTITEM id="038" txt=""/>
+      <LISTITEM id="039" txt=""/>
+      <LISTITEM id="040" txt=""/>
+      <LISTITEM id="041" txt=""/>
+      <LISTITEM id="042" txt=""/>
+      <LISTITEM id="043" txt=""/>
+      <LISTITEM id="044" txt=""/>
+      <LISTITEM id="045" txt=""/>
+      <LISTITEM id="046" txt=""/>
+      <LISTITEM id="047" txt=""/>
+      <LISTITEM id="048" txt=""/>
+      <LISTITEM id="049" txt=""/>
+      <LISTITEM id="050" txt=""/>
+      <LISTITEM id="051" txt=""/>
+      <LISTITEM id="052" txt=""/>
+      <LISTITEM id="053" txt=""/>
+      <LISTITEM id="054" txt=""/>
+      <LISTITEM id="055" txt=""/>
+      <LISTITEM id="056" txt=""/>
+      <LISTITEM id="057" txt=""/>
+      <LISTITEM id="058" txt=""/>
+      <LISTITEM id="059" txt=""/>
+      <LISTITEM id="060" txt=""/>
+      <LISTITEM id="061" txt=""/>
+      <LISTITEM id="062" txt=""/>
+      <LISTITEM id="063" txt=""/>
+      <LISTITEM id="064" txt=""/>
+      <LISTITEM id="065" txt=""/>
+      <LISTITEM id="066" txt=""/>
+      <LISTITEM id="067" txt=""/>
+      <LISTITEM id="068" txt=""/>
+      <LISTITEM id="069" txt=""/>
+      <LISTITEM id="070" txt=""/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="64" txt="Standort" info="Standort" count="13" max="200" idsize="10" txtsize="63" selected="3" default="0" editable="True">
+      <LISTITEM id="001" txt="Wohnzimmer"/>
+      <LISTITEM id="002" txt="Küche"/>
+      <LISTITEM id="003" txt="Bad"/>
+      <LISTITEM id="004" txt="Büro"/>
+      <LISTITEM id="005" txt="Flur"/>
+      <LISTITEM id="006" txt="Gästezimmer"/>
+      <LISTITEM id="007" txt="Garage"/>
+      <LISTITEM id="008" txt="Speicher"/>
+      <LISTITEM id="009" txt="Kinderzimmer"/>
+      <LISTITEM id="010" txt="Werkstatt"/>
+      <LISTITEM id="011" txt="Outdoor"/>
+      <LISTITEM id="012" txt="Verkaufsraum"/>
+      <LISTITEM id="012" txt="Technikraum"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="65" txt="Interner Fehler" info="Interner Fehler" count="5" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="1" txt="PE am Strombuegel unterbrochen"/>
+      <LISTITEM id="2" txt="RCD hat waehrend der Beruehrspannungsmessung ausgeloest"/>
+      <LISTITEM id="3" txt="N-PE vertauscht"/>
+      <LISTITEM id="4" txt="Netzanschlussfehler oder PE am Spannungsbuegel unterbrochen"/>
+      <LISTITEM id="5" txt="Potenzialdifferenz >= UL zwischen Fingerkontakt und PE"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="66" txt="Grenzwerte - RISO_I" info="Grenzwerte - RISO_I" count="1" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="250" txt=">250V"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="67" txt="Grenzwerte - RISO_I" info="Grenzwerte - RISO_I" count="1" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="750" txt="&lt;750V"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="68" txt="Grenzwerte - SENSOR I-ZANGE" info="Grenzwerte - SENSOR I-ZANGE" count="1" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="0.10" txt=">0.10A"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="69" txt="Grenzwerte - SENSOR I-ZANGE" info="Grenzwerte - SENSOR I-ZANGE" count="1" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="10.0" txt="&lt;10.0A"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="70" txt="ZLN-IK Leiter" info="ZLN-IK Leiter" count="8" max="70" idsize="10" txtsize="63" selected="6" default="6" editable="False">
+      <LISTITEM id="4" txt="L1-N"/>
+      <LISTITEM id="5" txt="L2-N"/>
+      <LISTITEM id="6" txt="L3-N"/>
+      <LISTITEM id="7" txt="L1-L2"/>
+      <LISTITEM id="8" txt="L2-L3"/>
+      <LISTITEM id="9" txt="L1-L3"/>
+      <LISTITEM id="10" txt="AUTO"/>
+      <LISTITEM id="11" txt="L-N"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="71" txt="ZLN-dU Leiter" info="ZLN-dU Leiter" count="7" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="4" txt="L1-N"/>
+      <LISTITEM id="5" txt="L2-N"/>
+      <LISTITEM id="6" txt="L3-N"/>
+      <LISTITEM id="7" txt="L1-L2"/>
+      <LISTITEM id="8" txt="L2-L3"/>
+      <LISTITEM id="9" txt="L1-L3"/>
+      <LISTITEM id="11" txt="L-N"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="72" txt="ZLPE Leiter" info="ZLPE Leiter" count="4" max="70" idsize="10" txtsize="63" selected="3" default="3" editable="False">
+      <LISTITEM id="0" txt="L1-PE"/>
+      <LISTITEM id="1" txt="L2-PE"/>
+      <LISTITEM id="2" txt="L3-PE"/>
+      <LISTITEM id="10" txt="AUTO"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="73" txt="Grenzwerte - RHO" info="Grenzwerte - RHO" count="1" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="10.0" txt=">10.0"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="74" txt="Grenzwerte - RHO" info="Grenzwerte - RHO" count="1" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="100" txt="&lt;100"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="75" txt="Ileak MODE" info="Ileak MODE" count="2" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="0" txt="Test OFF"/>
+      <LISTITEM id="1" txt="Test ON"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="76" txt="Ileak RANGE" info="Ileak RANGE" count="2" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="1" txt="Range 1:1"/>
+      <LISTITEM id="10" txt="Range 10:1"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="77" txt="Grenzwerte - IL" info="Grenzwerte - IL" count="1" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="10.0" txt="&lt;10.0mA"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="78" txt="RLPE LEITER" info="RLPE LEITER" count="2" max="70" idsize="10" txtsize="63" selected="1" default="0" editable="False">
+      <LISTITEM id="1" txt="L1-PE"/>
+      <LISTITEM id="2" txt="L2-PE"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="79" txt="RLPE Prozent" info="RLPE Prozent" count="1" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="10.0" txt="10.0%"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="80" txt="Grenzwerte - URES" info="Grenzwerte - URES" count="2" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="60" txt="&lt;60V"/>
+      <LISTITEM id="50" txt="&lt;50V"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="81" txt="Grenzwerte - tu" info="Grenzwerte - tu" count="2" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="5" txt="&lt;5s"/>
+      <LISTITEM id="10" txt="&lt;10s"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="82" txt="RCD - Faktor IDN" info="RCD - Faktor IDN" count="2" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="1" txt="0.5 x IDN"/>
+      <LISTITEM id="2" txt="1.0x IDN"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="83" txt="STKR - Stecker" info="STKR - Stecker" count="2" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="1" txt="Schuko"/>
+      <LISTITEM id="2" txt="Zweipol"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="84" txt="STKR - Stecker" info="STKR - Stecker" count="2" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="1" txt="Schuko"/>
+      <LISTITEM id="2" txt="Zweipol"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="85" txt="IMD MODE" info="IMD MODE" count="2" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="2" txt="Manuell"/>
+      <LISTITEM id="1" txt="AUTO"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="86" txt="Grenzwerte - ta" info="Grenzwerte - ta" count="1" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="0" txt=">0ms"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="87" txt="Grenzwerte - ta" info="Grenzwerte - ta" count="1" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="300" txt="&lt;300ms"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="88" txt="Grenzwerte - IF-G" info="Grenzwerte - IF-G" count="1" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="15000" txt=">15.0mA"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="89" txt="Grenzwerte - IF-K" info="Grenzwerte - IF-K" count="1" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="30000" txt="&lt;30.0mA"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="90" txt="Sequenz - Name" info="Sequenz - Name" count="3" max="3" idsize="10" txtsize="63" selected="0" default="0" editable="True">
+      <LISTITEM id="1" txt="RCD Typ A"/>
+      <LISTITEM id="2" txt="RCD Typ B"/>
+      <LISTITEM id="3" txt="ZLPE - DC"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="91" txt="RCD Typ A" info="RCD Typ A" count="14" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="0" txt="! Vor Beginn jeder Messung sind die  Parameter zu über-prüfen "/>
+      <LISTITEM id="50" txt="Besichtigung der  Anlage /              Dokumentation"/>
+      <LISTITEM id="1" txt="Beim Start der      Messung Finger-   kontakt berühren!"/>
+      <LISTITEM id="136" txt="U"/>
+      <LISTITEM id="2" txt="Messung starten   ==> ON/START"/>
+      <LISTITEM id="140" txt="ZLN"/>
+      <LISTITEM id="137" txt="IDN-ta"/>
+      <LISTITEM id="3" txt="Messung starten   ==> Idn"/>
+      <LISTITEM id="4" txt="RCD einschalten!   Messung starten   ==> Idn"/>
+      <LISTITEM id="138" txt="IF-ID"/>
+      <LISTITEM id="6" txt="*** Riso L1-PE *** Polarität             beachten !"/>
+      <LISTITEM id="129" txt="RISO"/>
+      <LISTITEM id="7" txt="Schuko-Stecker    drehen                 ==> ON/START"/>
+      <LISTITEM id="5" txt="*** Riso L1-PE *** Polarität             beachten !"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="92" txt="RCD Typ B" info="RCD Typ B" count="17" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="0" txt="! Vor Beginn jeder Messung sind die  Parameter zu über-prüfen "/>
+      <LISTITEM id="50" txt="Besichtigung der  Anlage /              Dokumentation"/>
+      <LISTITEM id="1" txt="Beim Start der      Messung Finger-   kontakt berühren!"/>
+      <LISTITEM id="136" txt="U"/>
+      <LISTITEM id="2" txt="Messung starten   ==> ON/START"/>
+      <LISTITEM id="140" txt="ZLN"/>
+      <LISTITEM id="8" txt="***  Uidn - AC  *** Messung starten   ==> ON/START"/>
+      <LISTITEM id="137" txt="IDN-ta"/>
+      <LISTITEM id="3" txt="Messung starten   ==> Idn"/>
+      <LISTITEM id="4" txt="RCD einschalten!   Messung starten   ==> Idn"/>
+      <LISTITEM id="138" txt="IF-ID"/>
+      <LISTITEM id="5" txt="RCD einschalten!"/>
+      <LISTITEM id="9" txt="***  Uidn - DC  *** Messung starten   ==> ON/START"/>
+      <LISTITEM id="6" txt="*** Riso L1-PE *** Polarität             beachten !"/>
+      <LISTITEM id="2" txt="Messung starten   ==> Idn"/>
+      <LISTITEM id="129" txt="RISO"/>
+      <LISTITEM id="7" txt="Schuko-Stecker    drehen                 ==> ON/START"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="93" txt="ZLPE-DC" info="ZLPE-DC" count="8" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="0" txt="! Vor Beginn jeder Messung sind die  Parameter zu über-prüfen "/>
+      <LISTITEM id="50" txt="Besichtigung der  Anlage /              Dokumentation"/>
+      <LISTITEM id="1" txt="Beim Start der      Messung Finger-   kontakt berühren!"/>
+      <LISTITEM id="136" txt="U"/>
+      <LISTITEM id="10" txt="****    L1-PE  ****  Messung starten   ==> ON/START"/>
+      <LISTITEM id="139" txt="ZLPE"/>
+      <LISTITEM id="11" txt="****    L2-PE  ****  Messung starten   ==> ON/START"/>
+      <LISTITEM id="12" txt="****    L3-PE  ****  Messung starten   ==> ON/START"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="94" txt="Sequenz - Besichtigung" info="Sequenz - Besichtigung" count="1" max="1" idsize="10" txtsize="63" selected="0" default="0" editable="True">
+      <LISTITEM id="50" txt="Besichtigung der  Anlage /              Dokumentation"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="95" txt="Sequenz - Hinweis" info="Sequenz - Hinweis" count="13" max="13" idsize="10" txtsize="63" selected="0" default="0" editable="True">
+      <LISTITEM id="0" txt="! Vor Beginn jeder Messung sind die  Parameter zu über-prüfen "/>
+      <LISTITEM id="1" txt="Beim Start der      Messung Finger-   kontakt berühren!"/>
+      <LISTITEM id="2" txt="Messung starten   ==> ON/START"/>
+      <LISTITEM id="3" txt="Messung starten   ==> Idn"/>
+      <LISTITEM id="4" txt="RCD einschalten!   Messung starten   ==> Idn"/>
+      <LISTITEM id="5" txt="RCD einschalten!"/>
+      <LISTITEM id="6" txt="*** Riso L1-PE *** Polarität             beachten !"/>
+      <LISTITEM id="7" txt="Schuko-Stecker    drehen                 ==> ON/START"/>
+      <LISTITEM id="8" txt="***  Uidn - AC  *** Messung starten   ==> ON/START"/>
+      <LISTITEM id="9" txt="***  Uidn - DC  *** Messung starten   ==> ON/START"/>
+      <LISTITEM id="10" txt="****    L1-PE  ****  Messung starten   ==> ON/START"/>
+      <LISTITEM id="11" txt="****    L2-PE  ****  Messung starten   ==> ON/START"/>
+      <LISTITEM id="12" txt="****    L3-PE  ****  Messung starten   ==> ON/START"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="96" txt="Ladesäule" info="Ladesäule" count="6" max="70" idsize="10" txtsize="63" selected="5" default="5" editable="False">
+      <LISTITEM id="11" txt="STATUS A"/>
+      <LISTITEM id="12" txt="STATUS B"/>
+      <LISTITEM id="13" txt="STATUS C"/>
+      <LISTITEM id="14" txt="STATUS D"/>
+      <LISTITEM id="15" txt="STATUS E"/>
+      <LISTITEM id="10" txt="AUTO"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="97" txt="PRCD PHASE" info="PRCD PHASE" count="3" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="98" txt="PRCD-S 1PHASE"/>
+      <LISTITEM id="99" txt="PRCD-K 1PHASE"/>
+      <LISTITEM id="100" txt="PRCD-S 3PHASE"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="98" txt="PRCD-S 1PHASE" info="PRCD-S 1PHASE" count="12" max="70" idsize="10" txtsize="63" selected="11" default="11" editable="False">
+      <LISTITEM id="29" txt="ON"/>
+      <LISTITEM id="30" txt="BREAK L1"/>
+      <LISTITEM id="31" txt="ON"/>
+      <LISTITEM id="32" txt="BREAK N"/>
+      <LISTITEM id="33" txt="ON"/>
+      <LISTITEM id="34" txt="BREAK PE"/>
+      <LISTITEM id="35" txt="L1 &lt;-> PE"/>
+      <LISTITEM id="36" txt="Uext -> PE"/>
+      <LISTITEM id="37" txt="ON"/>
+      <LISTITEM id="38" txt="PROBE"/>
+      <LISTITEM id="39" txt="PRCD-Ip"/>
+      <LISTITEM id="10" txt="AUTO"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="99" txt="PRCD-K 1PHASE" info="PRCD-K 1PHASE" count="5" max="70" idsize="10" txtsize="63" selected="4" default="4" editable="False">
+      <LISTITEM id="29" txt="ON"/>
+      <LISTITEM id="30" txt="BREAK L1"/>
+      <LISTITEM id="31" txt="ON"/>
+      <LISTITEM id="32" txt="BREAK N"/>
+      <LISTITEM id="10" txt="AUTO"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="100" txt="PRCD-S 3PHASE" info="PRCD-S 3PHASE" count="19" max="70" idsize="10" txtsize="63" selected="18" default="18" editable="False">
+      <LISTITEM id="11" txt="ON"/>
+      <LISTITEM id="12" txt="BREAK L1"/>
+      <LISTITEM id="13" txt="ON"/>
+      <LISTITEM id="14" txt="BREAK L2"/>
+      <LISTITEM id="15" txt="ON"/>
+      <LISTITEM id="16" txt="BREAK L3"/>
+      <LISTITEM id="17" txt="ON"/>
+      <LISTITEM id="18" txt="BREAK N"/>
+      <LISTITEM id="19" txt="ON"/>
+      <LISTITEM id="20" txt="BREAK PE"/>
+      <LISTITEM id="21" txt="L1 &lt;-> N"/>
+      <LISTITEM id="22" txt="L1 &lt;-> PE"/>
+      <LISTITEM id="23" txt="L2 &lt;-> N"/>
+      <LISTITEM id="24" txt="L2 &lt;-> PE"/>
+      <LISTITEM id="25" txt="L3 &lt;-> N"/>
+      <LISTITEM id="26" txt="L3 &lt;-> PE"/>
+      <LISTITEM id="27" txt="Uext -> PE"/>
+      <LISTITEM id="28" txt="PRCD-Ip"/>
+      <LISTITEM id="10" txt="AUTO"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="101" txt="Ladesäule" info="Ladesäule" count="13" max="70" idsize="10" txtsize="63" selected="12" default="12" editable="False">
+      <LISTITEM id="11" txt="STATUS A"/>
+      <LISTITEM id="12" txt="STATUS B"/>
+      <LISTITEM id="13" txt="STATUS C"/>
+      <LISTITEM id="14" txt="STATUS D"/>
+      <LISTITEM id="15" txt="STATUS E"/>
+      <LISTITEM id="16" txt="SIM 13A"/>
+      <LISTITEM id="17" txt="SIM 20A"/>
+      <LISTITEM id="18" txt="SIM 32A"/>
+      <LISTITEM id="19" txt="SIM 63A"/>
+      <LISTITEM id="20" txt="BREAK PE"/>
+      <LISTITEM id="21" txt="R TYP1"/>
+      <LISTITEM id="22" txt="R TYP2"/>
+      <LISTITEM id="10" txt="AUTO"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="102" txt="Ladesäule-Adapter" info="Ladesäule-Adapter" count="3" max="70" idsize="10" txtsize="63" selected="0" default="0" editable="False">
+      <LISTITEM id="0" txt="MENNEKES ADAPTER"/>
+      <LISTITEM id="1" txt="WALTHER ADAPTER"/>
+      <LISTITEM id="2" txt="HENSEL ADAPTER"/>
+    </SELECTIONLIST>
+    <SELECTIONLIST id="103" txt="IMD_RLPE START" info="IMD_RLPE START" count="65" max="70" idsize="10" txtsize="63" selected="47" default="47" editable="False">
+      <LISTITEM id="2512750" txt="2.51M"/>
+      <LISTITEM id="653590" txt="654k"/>
+      <LISTITEM id="614802" txt="615k"/>
+      <LISTITEM id="580362" txt="580k"/>
+      <LISTITEM id="549577" txt="550k"/>
+      <LISTITEM id="521894" txt="522k"/>
+      <LISTITEM id="496867" txt="497k"/>
+      <LISTITEM id="474132" txt="474k"/>
+      <LISTITEM id="443681" txt="444k"/>
+      <LISTITEM id="425465" txt="425k"/>
+      <LISTITEM id="400783" txt="401k"/>
+      <LISTITEM id="378810" txt="379k"/>
+      <LISTITEM id="359122" txt="359k"/>
+      <LISTITEM id="335850" txt="336k"/>
+      <LISTITEM id="315412" txt="315k"/>
+      <LISTITEM id="301645" txt="302k"/>
+      <LISTITEM id="285058" txt="285k"/>
+      <LISTITEM id="270200" txt="270k"/>
+      <LISTITEM id="250609" txt="251k"/>
+      <LISTITEM id="239055" txt="239k"/>
+      <LISTITEM id="226030" txt="226k"/>
+      <LISTITEM id="214352" txt="214k"/>
+      <LISTITEM id="199896" txt="200k"/>
+      <LISTITEM id="190709" txt="191k"/>
+      <LISTITEM id="180743" txt="181k"/>
+      <LISTITEM id="170358" txt="170k"/>
+      <LISTITEM id="159862" txt="160k"/>
+      <LISTITEM id="149501" txt="150k"/>
+      <LISTITEM id="143310" txt="143k"/>
+      <LISTITEM id="136706" txt="137k"/>
+      <LISTITEM id="129868" txt="130k"/>
+      <LISTITEM id="120106" txt="120k"/>
+      <LISTITEM id="114798" txt="115k"/>
+      <LISTITEM id="109939" txt="110k"/>
+      <LISTITEM id="104943" txt="105k"/>
+      <LISTITEM id="100383" txt="100k"/>
+      <LISTITEM id="94885" txt="94.9k"/>
+      <LISTITEM id="89960" txt="90.0k"/>
+      <LISTITEM id="85172" txt="85.2k"/>
+      <LISTITEM id="80245" txt="80.2k"/>
+      <LISTITEM id="76136" txt="76.1k"/>
+      <LISTITEM id="72177" txt="72.2k"/>
+      <LISTITEM id="68161" txt="68.2k"/>
+      <LISTITEM id="64172" txt="64.2k"/>
+      <LISTITEM id="60101" txt="60.1k"/>
+      <LISTITEM id="56061" txt="56.1k"/>
+      <LISTITEM id="53066" txt="53.1k"/>
+      <LISTITEM id="50014" txt="50.0k"/>
+      <LISTITEM id="46976" txt="47.0k"/>
+      <LISTITEM id="44008" txt="44.0k"/>
+      <LISTITEM id="41975" txt="42.0k"/>
+      <LISTITEM id="39969" txt="40.0k"/>
+      <LISTITEM id="38009" txt="38.0k"/>
+      <LISTITEM id="36485" txt="36.5k"/>
+      <LISTITEM id="34962" txt="35.0k"/>
+      <LISTITEM id="32981" txt="33.0k"/>
+      <LISTITEM id="31495" txt="31.5k"/>
+      <LISTITEM id="28973" txt="29.0k"/>
+      <LISTITEM id="27459" txt="27.5k"/>
+      <LISTITEM id="25966" txt="26.0k"/>
+      <LISTITEM id="24980" txt="25.0k"/>
+      <LISTITEM id="22964" txt="23.0k"/>
+      <LISTITEM id="21960" txt="22.0k"/>
+      <LISTITEM id="20998" txt="21.0k"/>
+      <LISTITEM id="19985" txt="20.0k"/>
+    </SELECTIONLIST>
+  </SELECTIONLISTS>
+  <DATABASE version="01.03.00" level="235464" size="16777216" language="ger" country="DE">
+    <CUSTOMER dbno="1" id="C0498041" txt="Kunde0498041">
+      <BUILDING dbno="1" id="B0498104" txt="Gebäude0498104">
+        <MACHINE dbno="1" id="M0498042" txt="Flachschleifmaschine 1" typeofconduction="NYCWY" numberofconduction="5" crosssection="10" characteristic="gL/gG &lt;5s" nominalcurrent="40A">
+          <MEASUREMENT dbno="1" id="M0498043" txt="NewName1" type="U" testdate="22.11.2022 07:35:42" tester="nicht definiert" completed="True" passed="True" testdeviceid="21" measureno="136" measureid="PTM_U">
+            <PARAMETER value="U-DREH" selectionlist="U - Typ" selectionlistno="44" selectionlistid="AWL_U_TYP"/>
+            <RESULT variable="UL3L1" value="406E+00" unit="V" lowerlimit="" upperlimit="" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="33" resultid="PTM_UL3L1"/>
+            <RESULT variable="UL1L2" value="404E+00" unit="V" lowerlimit="" upperlimit="" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="34" resultid="PTM_UL1L2"/>
+            <RESULT variable="UL2L3" value="405E+00" unit="V" lowerlimit="" upperlimit="" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="35" resultid="PTM_UL2L3"/>
+            <RESULT variable="f" value="50.0E+00" unit="Hz" lowerlimit="" upperlimit="" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="3" resultid="PTM_f"/>
+            <VERIFICATION variable="DREHFELD" value="rechts" setpoint="rechts" passed="True"/>
+          </MEASUREMENT>
+          <MEASUREMENT dbno="2" id="M0498044" txt="NewName2" type="ZLPE" testdate="23.11.2022 07:43:06" tester="nicht definiert" completed="True" passed="True" testdeviceid="21" measureno="139" measureid="PTM_ZLPE">
+            <PARAMETER value="40A" selectionlist="STKR - Nennstrom" selectionlistno="7" selectionlistid="AWL_STKR_I_N"/>
+            <PARAMETER value="gL/gG &lt;5s" selectionlist="STKR - Charakteristik" selectionlistno="8" selectionlistid="AWL_STKR_CHARAKTERISTIK"/>
+            <PARAMETER value="NYCWY" selectionlist="Leitungsart" selectionlistno="9" selectionlistid="AWL_STKR_LEITERART"/>
+            <PARAMETER value="10" selectionlist="Querschnitt" selectionlistno="10" selectionlistid="AWL_STKR_QUERSCHNITT"/>
+            <PARAMETER value="5" selectionlist="Aderanzahl" selectionlistno="11" selectionlistid="AWL_STKR_LEITERANZAHL"/>
+            <PARAMETER value="Vollwelle" selectionlist="STKR - Welle" selectionlistno="12" selectionlistid="AWL_STKR_WELLE"/>
+            <PARAMETER value="&lt;50V" selectionlist="RCD - Beruehrspannung" selectionlistno="6" selectionlistid="AWL_RCD_BERUEHRSPANNUNG"/>
+            <PARAMETER value="Schuko" selectionlist="STKR - Stecker" selectionlistno="84" selectionlistid="AWL_STKR_STECKER_ZLPE"/>
+            <PARAMETER value="L1-PE" selectionlist="ZLPE Leiter" selectionlistno="72" selectionlistid="AWL_STKR_ZLPE_LEITER"/>
+            <RESULT variable="IK" value="1.47E+03" unit="A" lowerlimit=">285E+00" upperlimit="" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="7" resultid="PTM_IK"/>
+            <RESULT variable="ZLPE" value="156E-03" unit="Ohm" lowerlimit="" upperlimit="" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="6" resultid="PTM_ZLPE"/>
+            <RESULT variable="ULN" value="230E+00" unit="V" lowerlimit="" upperlimit="" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="2" resultid="PTM_ULN"/>
+            <RESULT variable="f" value="50.0E+00" unit="Hz" lowerlimit="" upperlimit="" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="3" resultid="PTM_f"/>
+          </MEASUREMENT>
+          <MEASUREMENT dbno="18" id="M0498060" txt="NewName3" type="RISO" testdate="23.11.2022 07:58:38" tester="nicht definiert" completed="True" passed="True" testdeviceid="21" measureno="129" measureid="PTM_RISO">
+            <PARAMETER value="500V" selectionlist="RISO - Nennspannung" selectionlistno="19" selectionlistid="AWL_RISO_UN"/>
+            <PARAMETER value="Konstant" selectionlist="RISO - Methode" selectionlistno="21" selectionlistid="AWL_RISO_METHODE"/>
+            <PARAMETER value="L3-PE" selectionlist="RISO - Leiter" selectionlistno="20" selectionlistid="AWL_RISO_LEITER"/>
+            <RESULT variable="RISO" value=">500E+06" unit="Ohm" lowerlimit=">1.0E+06" upperlimit="" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="40" resultid="PTM_RISO"/>
+            <RESULT variable="UISO" value="545E+00" unit="V" lowerlimit="" upperlimit="" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="58" resultid="58"/>
+          </MEASUREMENT>
+          <MEASUREMENT dbno="19" id="M0498061" txt="NewName4" type="RISO" testdate="23.11.2022 07:58:45" tester="nicht definiert" completed="True" passed="True" testdeviceid="21" measureno="129" measureid="PTM_RISO">
+            <PARAMETER value="500V" selectionlist="RISO - Nennspannung" selectionlistno="19" selectionlistid="AWL_RISO_UN"/>
+            <PARAMETER value="Konstant" selectionlist="RISO - Methode" selectionlistno="21" selectionlistid="AWL_RISO_METHODE"/>
+            <PARAMETER value="N-PE" selectionlist="RISO - Leiter" selectionlistno="20" selectionlistid="AWL_RISO_LEITER"/>
+            <RESULT variable="RISO" value=">500E+06" unit="Ohm" lowerlimit=">1.0E+06" upperlimit="" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="40" resultid="PTM_RISO"/>
+            <RESULT variable="UISO" value="545E+00" unit="V" lowerlimit="" upperlimit="" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="58" resultid="58"/>
+          </MEASUREMENT>
+        </MACHINE>
+        <MACHINE dbno="2" id="90498035" txt="Flachschleifmaschine 2" typeofconduction="NYCWY" numberofconduction="5" crosssection="10" characteristic="gL/gG &lt;5s" nominalcurrent="40A">
+          <MEASUREMENT dbno="62" id="M0498040" txt="Betriebsspannung Zuleitung" type="U" testdate="22.11.2022 07:35:42" tester="nicht definiert" completed="True" passed="True" testdeviceid="21" measureno="136" measureid="PTM_U">
+            <PARAMETER value="U-DREH" selectionlist="U - Typ" selectionlistno="44" selectionlistid="AWL_U_TYP"/>
+            <RESULT variable="UL3L1" value="406E+00" unit="V" lowerlimit="" upperlimit="" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="33" resultid="PTM_UL3L1"/>
+            <RESULT variable="UL1L2" value="404E+00" unit="V" lowerlimit="" upperlimit="" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="34" resultid="PTM_UL1L2"/>
+            <RESULT variable="UL2L3" value="405E+00" unit="V" lowerlimit="" upperlimit="" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="35" resultid="PTM_UL2L3"/>
+            <RESULT variable="f" value="50.0E+00" unit="Hz" lowerlimit="" upperlimit="" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="3" resultid="PTM_f"/>
+            <VERIFICATION variable="DREHFELD" value="rechts" setpoint="rechts" passed="True"/>
+          </MEASUREMENT>
+          <MEASUREMENT dbno="63" id="M0000014" txt="Schleifenimpedanz Zuleitung L1" type="ZLPE" testdate="23.11.2022 07:43:06" tester="nicht definiert" completed="True" passed="True" testdeviceid="21" measureno="139" measureid="PTM_ZLPE">
+            <PARAMETER value="40A" selectionlist="STKR - Nennstrom" selectionlistno="7" selectionlistid="AWL_STKR_I_N"/>
+            <PARAMETER value="gL/gG &lt;5s" selectionlist="STKR - Charakteristik" selectionlistno="8" selectionlistid="AWL_STKR_CHARAKTERISTIK"/>
+            <PARAMETER value="NYCWY" selectionlist="Leitungsart" selectionlistno="9" selectionlistid="AWL_STKR_LEITERART"/>
+            <PARAMETER value="10" selectionlist="Querschnitt" selectionlistno="10" selectionlistid="AWL_STKR_QUERSCHNITT"/>
+            <PARAMETER value="5" selectionlist="Aderanzahl" selectionlistno="11" selectionlistid="AWL_STKR_LEITERANZAHL"/>
+            <PARAMETER value="Vollwelle" selectionlist="STKR - Welle" selectionlistno="12" selectionlistid="AWL_STKR_WELLE"/>
+            <PARAMETER value="&lt;50V" selectionlist="RCD - Beruehrspannung" selectionlistno="6" selectionlistid="AWL_RCD_BERUEHRSPANNUNG"/>
+            <PARAMETER value="Schuko" selectionlist="STKR - Stecker" selectionlistno="84" selectionlistid="AWL_STKR_STECKER_ZLPE"/>
+            <PARAMETER value="L1-PE" selectionlist="ZLPE Leiter" selectionlistno="72" selectionlistid="AWL_STKR_ZLPE_LEITER"/>
+            <RESULT variable="IK" value="1.47E+03" unit="A" lowerlimit=">285E+00" upperlimit="" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="7" resultid="PTM_IK"/>
+            <RESULT variable="ZLPE" value="156E-03" unit="Ohm" lowerlimit="" upperlimit="" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="6" resultid="PTM_ZLPE"/>
+            <RESULT variable="ULN" value="230E+00" unit="V" lowerlimit="" upperlimit="" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="2" resultid="PTM_ULN"/>
+            <RESULT variable="f" value="50.0E+00" unit="Hz" lowerlimit="" upperlimit="" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="3" resultid="PTM_f"/>
+          </MEASUREMENT>
+        </MACHINE>
+        <MACHINE dbno="2" id="90498036" txt="Flachschleifmaschine 2" typeofconduction="NYCWY" numberofconduction="5" crosssection="10" characteristic="gL/gG &lt;5s" nominalcurrent="40A">
+          <MEASUREMENT dbno="62" id="M0498040" txt="Betriebsspannung Zuleitung" type="U" testdate="22.11.2022 07:35:42" tester="nicht definiert" completed="True" passed="True" testdeviceid="21" measureno="136" measureid="PTM_U">
+            <PARAMETER value="U-DREH" selectionlist="U - Typ" selectionlistno="44" selectionlistid="AWL_U_TYP"/>
+            <RESULT variable="UL3L1" value="406E+00" unit="V" lowerlimit="" upperlimit="" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="33" resultid="PTM_UL3L1"/>
+            <RESULT variable="UL1L2" value="404E+00" unit="V" lowerlimit="" upperlimit="" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="34" resultid="PTM_UL1L2"/>
+            <RESULT variable="UL2L3" value="405E+00" unit="V" lowerlimit="" upperlimit="" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="35" resultid="PTM_UL2L3"/>
+            <RESULT variable="f" value="50.0E+00" unit="Hz" lowerlimit="" upperlimit="" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="3" resultid="PTM_f"/>
+            <VERIFICATION variable="DREHFELD" value="rechts" setpoint="rechts" passed="True"/>
+          </MEASUREMENT>
+          <MEASUREMENT dbno="63" id="M0000014" txt="Schleifenimpedanz Zuleitung L1" type="ZLPE" testdate="23.11.2022 07:43:06" tester="nicht definiert" completed="True" passed="True" testdeviceid="21" measureno="139" measureid="PTM_ZLPE">
+            <PARAMETER value="40A" selectionlist="STKR - Nennstrom" selectionlistno="7" selectionlistid="AWL_STKR_I_N"/>
+            <PARAMETER value="gL/gG &lt;5s" selectionlist="STKR - Charakteristik" selectionlistno="8" selectionlistid="AWL_STKR_CHARAKTERISTIK"/>
+            <PARAMETER value="NYCWY" selectionlist="Leitungsart" selectionlistno="9" selectionlistid="AWL_STKR_LEITERART"/>
+            <PARAMETER value="10" selectionlist="Querschnitt" selectionlistno="10" selectionlistid="AWL_STKR_QUERSCHNITT"/>
+            <PARAMETER value="5" selectionlist="Aderanzahl" selectionlistno="11" selectionlistid="AWL_STKR_LEITERANZAHL"/>
+            <PARAMETER value="Vollwelle" selectionlist="STKR - Welle" selectionlistno="12" selectionlistid="AWL_STKR_WELLE"/>
+            <PARAMETER value="&lt;50V" selectionlist="RCD - Beruehrspannung" selectionlistno="6" selectionlistid="AWL_RCD_BERUEHRSPANNUNG"/>
+            <PARAMETER value="Schuko" selectionlist="STKR - Stecker" selectionlistno="84" selectionlistid="AWL_STKR_STECKER_ZLPE"/>
+            <PARAMETER value="L1-PE" selectionlist="ZLPE Leiter" selectionlistno="72" selectionlistid="AWL_STKR_ZLPE_LEITER"/>
+            <RESULT variable="IK" value="1.47E+03" unit="A" lowerlimit=">285E+00" upperlimit="" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="7" resultid="PTM_IK"/>
+            <RESULT variable="ZLPE" value="156E-03" unit="Ohm" lowerlimit="" upperlimit="" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="6" resultid="PTM_ZLPE"/>
+            <RESULT variable="ULN" value="230E+00" unit="V" lowerlimit="" upperlimit="" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="2" resultid="PTM_ULN"/>
+            <RESULT variable="f" value="50.0E+00" unit="Hz" lowerlimit="" upperlimit="" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="3" resultid="PTM_f"/>
+          </MEASUREMENT>
+        </MACHINE>
+      </BUILDING>
+    </CUSTOMER>
+  </DATABASE>
+  <SEQUENCES>
+    <SEQUENCE dbno="24" id="" txt="RCD Analyse mit PRO Schuko" deviceid="Profitest_M">
+      <SEQSTEPREPORT dbno="208" id="0000" txt="Besichtigung der  Anlage" type="Besichtigung" reportno="3" reportid="Besichtigung" testdate="26.12.2022 17:10:19" testing="True" passed="True" notpassed="False"/>
+      <SEQSTEPREPORT dbno="209" id="0000" txt="Entsprechende      Sicherheitsvor-   schriften beach-  ten!" type="Hinweis" reportno="1" reportid="Hinweis" testdate="26.12.2022 17:10:19" testing="True" passed="True" notpassed="False"/>
+      <SEQSTEPREPORT dbno="210" id="0000" txt="Beim Start der      Messung Finger-   kontakt berühren!" type="Hinweis" reportno="1" reportid="Hinweis" testdate="26.12.2022 17:10:19" testing="True" passed="True" notpassed="False"/>
+      <SEQSTEPREPORT dbno="211" id="0000" txt="Messung starten   => Speichern        unter Stromkreis" type="Hinweis" reportno="1" reportid="Hinweis" testdate="26.12.2022 17:10:19" testing="True" passed="True" notpassed="False"/>
+      <SEQSTEPREPORT dbno="212" id="0000" txt="Start mit I dN-    Taste" type="Hinweis" reportno="1" reportid="Hinweis" testdate="26.12.2022 17:10:19" testing="True" passed="True" notpassed="False"/>
+      <SEQSTEPREPORT dbno="213" id="0000" txt="RCD einschalten!   Start mit I dN-    Taste" type="Hinweis" reportno="1" reportid="Hinweis" testdate="26.12.2022 17:10:19" testing="True" passed="True" notpassed="False"/>
+      <SEQSTEPREPORT dbno="214" id="0033" txt="Riso zwischen      L1-PE (Polarität   beachten!)" type="Hinweis" reportno="1" reportid="Hinweis" testdate="26.12.2022 17:10:19" testing="True" passed="True" notpassed="False"/>
+      <SEQSTEPREPORT dbno="215" id="0000" txt="Schuko-Stecker    drehen, Messung   erneut starten!" type="Hinweis" reportno="1" reportid="Hinweis" testdate="26.12.2022 17:10:19" testing="True" passed="True" notpassed="False"/>
+      <SEQSTEPREPORT dbno="216" id="0000" txt="RCD einschalten!" type="Hinweis" reportno="1" reportid="Hinweis" testdate="26.12.2022 17:10:19" testing="True" passed="True" notpassed="False"/>
+      <SEQSTEPMEASUREMENT dbno="162" id="" txt="Betriebsspannung Zuleitung" type="U" testdate="" passed="False" completed="False">
+        <SEQPARAMETER value="U-LN" selectionlist="U - Typ" selectionlistno="44" selectionlistid="AWL_U_TYP"/>
+        <SEQPARAMETER value="Schuko" selectionlist="STKR - Stecker" selectionlistno="83" selectionlistid="AWL_STKR_STECKER_NETZ"/>
+        <SEQPARAMETER value="L1-N" selectionlist="NETZ - Leiter" selectionlistno="40" selectionlistid="AWL_NETZ_LEITER"/>
+      </SEQSTEPMEASUREMENT>
+      <SEQSTEPMEASUREMENT dbno="163" id="" txt="Z LN" type="ZLN-IK" testdate="" passed="False" completed="False">
+        <SEQPARAMETER value="16A" selectionlist="STKR - Nennstrom" selectionlistno="7" selectionlistid="AWL_STKR_I_N"/>
+        <SEQPARAMETER value="B/L" selectionlist="STKR - Charakteristik" selectionlistno="8" selectionlistid="AWL_STKR_CHARAKTERISTIK"/>
+        <SEQPARAMETER value="NYM-J" selectionlist="Leitungsart" selectionlistno="9" selectionlistid="AWL_STKR_LEITERART"/>
+        <SEQPARAMETER value="2.5" selectionlist="Querschnitt" selectionlistno="10" selectionlistid="AWL_STKR_QUERSCHNITT"/>
+        <SEQPARAMETER value="3" selectionlist="Aderanzahl" selectionlistno="11" selectionlistid="AWL_STKR_LEITERANZAHL"/>
+        <SEQPARAMETER value="Schuko" selectionlist="STKR - Stecker" selectionlistno="13" selectionlistid="AWL_STKR_STECKER"/>
+        <SEQPARAMETER value="L1-N" selectionlist="ZLN-IK Leiter" selectionlistno="70" selectionlistid="AWL_STKR_ZLN_LEITER"/>
+        <SEQRESULT variable="IK" value="" unit="A" lowerlimit=">120E+00" upperlimit="&lt;E+00" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="7" resultid="PTM_IK"/>
+      </SEQSTEPMEASUREMENT>
+      <SEQSTEPMEASUREMENT dbno="164" id="" txt="U I dN" type="IDN-UIDN" testdate="" passed="False" completed="False">
+        <SEQPARAMETER value="30mA" selectionlist="RCD - Nennfehlerstrom" selectionlistno="0" selectionlistid="AWL_RCD_I_DELTA_N"/>
+        <SEQPARAMETER value="RCD" selectionlist="RCD - Charakteristik" selectionlistno="1" selectionlistid="AWL_RCD_CHARAKTERISTIK"/>
+        <SEQPARAMETER value="40A" selectionlist="RCD - Nennstrom" selectionlistno="2" selectionlistid="AWL_RCD_I_N"/>
+        <SEQPARAMETER value="A" selectionlist="RCD - Typ" selectionlistno="3" selectionlistid="AWL_RCD_TYP"/>
+        <SEQPARAMETER value="0 Grad Vollwelle" selectionlist="RCD - Welle" selectionlistno="4" selectionlistid="AWL_RCD_WELLE"/>
+        <SEQPARAMETER value="1.0x IDN" selectionlist="RCD - Faktor IDN" selectionlistno="5" selectionlistid="AWL_RCD_I_DELTA_N_FAKTOR"/>
+        <SEQPARAMETER value="&lt;50V" selectionlist="RCD - Beruehrspannung" selectionlistno="6" selectionlistid="AWL_RCD_BERUEHRSPANNUNG"/>
+        <SEQPARAMETER value="RE (Netz)" selectionlist="Erder - Methode IDN" selectionlistno="47" selectionlistid="AWL_ERDER_IDN_METHODE"/>
+        <SEQPARAMETER value="TN/TT" selectionlist="Netz - Typ" selectionlistno="42" selectionlistid="AWL_NET_TYPE"/>
+        <SEQRESULT variable="UIDN" value="" unit="V" lowerlimit=">E+00" upperlimit="&lt;50E+00" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="0" resultid="PTM_UIDN"/>
+      </SEQSTEPMEASUREMENT>
+      <SEQSTEPMEASUREMENT dbno="165" id="" txt="ta" type="IDN-ta" testdate="" passed="False" completed="False">
+        <SEQPARAMETER value="30mA" selectionlist="RCD - Nennfehlerstrom" selectionlistno="0" selectionlistid="AWL_RCD_I_DELTA_N"/>
+        <SEQPARAMETER value="RCD" selectionlist="RCD - Charakteristik" selectionlistno="1" selectionlistid="AWL_RCD_CHARAKTERISTIK"/>
+        <SEQPARAMETER value="40A" selectionlist="RCD - Nennstrom" selectionlistno="2" selectionlistid="AWL_RCD_I_N"/>
+        <SEQPARAMETER value="A" selectionlist="RCD - Typ" selectionlistno="3" selectionlistid="AWL_RCD_TYP"/>
+        <SEQPARAMETER value="0 Grad Vollwelle" selectionlist="RCD - Welle" selectionlistno="4" selectionlistid="AWL_RCD_WELLE"/>
+        <SEQPARAMETER value="1.0x IDN" selectionlist="RCD - Faktor IDN" selectionlistno="5" selectionlistid="AWL_RCD_I_DELTA_N_FAKTOR"/>
+        <SEQPARAMETER value="&lt;50V" selectionlist="RCD - Beruehrspannung" selectionlistno="6" selectionlistid="AWL_RCD_BERUEHRSPANNUNG"/>
+        <SEQPARAMETER value="RE (Netz)" selectionlist="Erder - Methode IDN" selectionlistno="47" selectionlistid="AWL_ERDER_IDN_METHODE"/>
+        <SEQPARAMETER value="TN/TT" selectionlist="Netz - Typ" selectionlistno="42" selectionlistid="AWL_NET_TYPE"/>
+        <SEQRESULT variable="ta" value="" unit="s" lowerlimit=">0E-03" upperlimit="&lt;300E-03" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="1" resultid="PTM_ta"/>
+      </SEQSTEPMEASUREMENT>
+      <SEQSTEPMEASUREMENT dbno="166" id="" txt="I d" type="IF-ID" testdate="" passed="False" completed="False">
+        <SEQPARAMETER value="30mA" selectionlist="RCD - Nennfehlerstrom" selectionlistno="0" selectionlistid="AWL_RCD_I_DELTA_N"/>
+        <SEQPARAMETER value="RCD" selectionlist="RCD - Charakteristik" selectionlistno="1" selectionlistid="AWL_RCD_CHARAKTERISTIK"/>
+        <SEQPARAMETER value="40A" selectionlist="RCD - Nennstrom" selectionlistno="2" selectionlistid="AWL_RCD_I_N"/>
+        <SEQPARAMETER value="A" selectionlist="RCD - Typ" selectionlistno="3" selectionlistid="AWL_RCD_TYP"/>
+        <SEQPARAMETER value="0 Grad Vollwelle" selectionlist="RCD IF - Welle" selectionlistno="48" selectionlistid="AWL_RCD_IF_WELLE"/>
+        <SEQPARAMETER value="&lt;50V" selectionlist="RCD - Beruehrspannung" selectionlistno="6" selectionlistid="AWL_RCD_BERUEHRSPANNUNG"/>
+        <SEQPARAMETER value="RE (Netz)" selectionlist="Erder - Methode IDN" selectionlistno="47" selectionlistid="AWL_ERDER_IDN_METHODE"/>
+        <SEQPARAMETER value="TN/TT" selectionlist="Netz - Typ" selectionlistno="42" selectionlistid="AWL_NET_TYPE"/>
+        <SEQRESULT variable="ID" value="" unit="A" lowerlimit=">15E-03" upperlimit="&lt;30E-03" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="5" resultid="PTM_ID"/>
+      </SEQSTEPMEASUREMENT>
+      <SEQSTEPMEASUREMENT dbno="167" id="" txt="R ISO" type="RISO" testdate="" passed="False" completed="False">
+        <SEQPARAMETER value="500V" selectionlist="RISO - Nennspannung" selectionlistno="19" selectionlistid="AWL_RISO_UN"/>
+        <SEQPARAMETER value="AUTO" selectionlist="RISO - Leiter" selectionlistno="20" selectionlistid="AWL_RISO_LEITER"/>
+        <SEQRESULT variable="RISO" value="" unit="Ohm" lowerlimit=">1E+06" upperlimit="&lt;E+00" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="40" resultid="PTM_RISO"/>
+      </SEQSTEPMEASUREMENT>
+      <SEQSTEPMEASUREMENT dbno="168" id="" txt="R ISO" type="RISO" testdate="" passed="False" completed="False">
+        <SEQPARAMETER value="500V" selectionlist="RISO - Nennspannung" selectionlistno="19" selectionlistid="AWL_RISO_UN"/>
+        <SEQPARAMETER value="N-PE" selectionlist="RISO - Leiter" selectionlistno="20" selectionlistid="AWL_RISO_LEITER"/>
+        <SEQRESULT variable="RISO" value="" unit="Ohm" lowerlimit=">1E+06" upperlimit="&lt;E+00" lowertolerance="0" uppertolerance="0" setpoint="" passed="True" resultno="40" resultid="PTM_RISO"/>
+      </SEQSTEPMEASUREMENT>
+    </SEQUENCE>
+  </SEQUENCES>
+  <METADATA/>
+</PROFITEST_M>
